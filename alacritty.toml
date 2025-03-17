@@ -1,0 +1,40 @@
+[env]
+TERM = "xterm-256color"
+
+[font]
+size = 16
+
+[font.bold]
+family = "Caskaydia Cove Nerd Font"
+style = "Bold"
+
+[font.italic]
+family = "Caskaydia Cove Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "Caskaydia Cove Nerd Font"
+style = "Regular"
+
+[window]
+opacity = 0.85 
+
+[terminal.shell]
+program = "/bin/zsh"
+args = ["--login", "-c", "xmodmap ~/.Xmodmap; exec zsh"]
+
+[colors]
+  [colors.primary]
+  #foreground = "#ebdbb2"  # Cor de texto
+
+  [colors.normal]
+  black   = "#282828"  # cor do preto
+  red     = "#fb4934"  # cor do vermelho
+  green   = "#b8bb26"  # cor do verde
+  yellow  = "#fbf16e"  # cor do amarelo
+  blue    = "#83a598"  # cor do azul
+  magenta = "#d3869b"  # cor do magenta
+  cyan    = "#8ec07c"  # cor do ciano
+  white   = "#ebdbb2"  # cor do branco
+
+

@@ -1,0 +1,10 @@
+map v $code $PWD
+#set previewer "lsd --icon never"
+set icons true
+set drawbox true
+
+# Enable previews
+set previewer ~/.config/lf/preview
+set cleaner ~/.config/lf/cleaner
+
+map . set hidden!

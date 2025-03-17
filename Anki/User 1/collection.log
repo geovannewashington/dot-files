@@ -1,0 +1,1364 @@
+[1708728727] collection.py:__init__(): /home/gvn/.local/share/Anki2/User 1/collection.anki2, 2.1.15
+[1708728727] sched.py:_updateCutoff(): 0, 1708758000
+[1708728747] collection.py:__init__(): /home/gvn/.local/share/Anki2/User 1/collection.anki2, 2.1.15
+[1708728747] sched.py:_updateCutoff(): 0, 1708758000
+[1708728769] collection.py:__init__(): /home/gvn/.local/share/Anki2/User 1/collection.anki2, 2.1.15
+[1708728769] sched.py:_updateCutoff(): 0, 1708758000
+[1708728783] collection.py:__init__(): /home/gvn/.local/share/Anki2/User 1/collection.anki2, 2.1.15
+[1708728783] sched.py:_updateCutoff(): 0, 1708758000
+[1708728784] sync.py:sync(): rmeta, {'cont': True,
+ 'empty': False,
+ 'hostNum': 9,
+ 'media_usn': 522,
+ 'mod': 1708358483530,
+ 'msg': '',
+ 'scm': 1691507825319,
+ 'ts': 1708728784,
+ 'usn': 556}
+[1708728784] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1708728727664,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1708728727663,
+ 'ts': 1708728784,
+ 'usn': 0}
+[1708728784] sync.py:sync(): schema diff
+[1708728790] sync.py:sync(): findChanges
+[1708728790] sync.py:sync(): last local usn is 0
+[1708728790] sync.py:sync(): mediaChanges resp count 522
+[1708728790] sync.py:sync(): check: lsum=None rsum=c8eb ldirty=0 rusn=1 fname=google-60f53ecc-b3de7fd1-6220f2d9-674271e2-c5313134.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4d52 ldirty=0 rusn=2 fname=google-d6cc1c36-872fd867-5f9b077e-d2d39d5f-220faaf9.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=763c ldirty=0 rusn=3 fname=google-af1bfccf-39ebd376-57e406cc-5a1c9497-da163d82.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=d053 ldirty=0 rusn=4 fname=google-71d07489-b76da3a6-52486864-d7489537-8bdd7186.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=8b33 ldirty=0 rusn=5 fname=google-e8b9a618-d2db9c27-4ecfabf0-69daf1fc-ff8cf158.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=0189 ldirty=0 rusn=6 fname=google-60575c40-5b615d18-5953f398-daa2eb35-725a10a5.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=129e ldirty=0 rusn=7 fname=google-662606aa-2ff52378-0b18574e-52db2d1d-51fd7268.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=7f5b ldirty=0 rusn=8 fname=google-2a2b4e62-dd78a948-d9e05f50-ad381079-b18c2a38.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=d9be ldirty=0 rusn=9 fname=google-7d933e81-069a7d55-7186a9ce-75a71fa6-b5c138c8.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b6e1 ldirty=0 rusn=10 fname=google-eea9eb94-adf83169-18d28fcb-69998253-d383034c.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c332 ldirty=0 rusn=11 fname=google-77e4fdd8-a8eac7b5-aa00b35a-10671c16-9e677afc.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=ae3a ldirty=0 rusn=12 fname=google-3ce05edd-104ad999-7b531cb8-0514f461-d6210861.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=9237 ldirty=0 rusn=13 fname=google-79339340-2a524258-598f088c-b79345c3-33110448.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=9ad4 ldirty=0 rusn=14 fname=google-b6d338c0-d6c3f17e-ce8e3f30-22b8a5bd-6c4d1cda.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=704d ldirty=0 rusn=15 fname=google-235adde4-08518840-2ff240bd-26e4436a-0b301753.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=6963 ldirty=0 rusn=16 fname=google-27609207-e784ce30-8dab9163-8169f1ff-06c1c23a.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b46b ldirty=0 rusn=17 fname=google-0b3465c4-12f7c605-1ec0f262-9ffb770b-e6371351.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=72a6 ldirty=0 rusn=18 fname=google-040abed4-45d22589-243e2fd5-bdfcdfa3-efbe78ec.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=9dae ldirty=0 rusn=19 fname=google-a0e3bf76-678da9e3-6442176b-9057f1b5-4b950e12.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c2b1 ldirty=0 rusn=20 fname=google-3a7054ab-13795204-d4c4c861-d1096c54-a0d8384d.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=830d ldirty=0 rusn=21 fname=google-42f84e34-c2d78b29-dc1541ae-514d9269-10dded41.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=1a48 ldirty=0 rusn=22 fname=google-7a691b80-084cc998-dc752904-a9ec5ae5-b059c9d6.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=af94 ldirty=0 rusn=23 fname=google-d07f3846-df14b21c-db7f4230-2a8b16b7-0ba098ba.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=0d69 ldirty=0 rusn=24 fname=google-6d4613ed-be0cdead-6427c1f4-33e6e8b0-2f6e2bfa.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c435 ldirty=0 rusn=25 fname=google-b1e01b4c-cd9ad9ce-0cbdd60e-22d334bf-0ac05490.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=e943 ldirty=0 rusn=26 fname=google-9959af2f-1a538c83-aa2e5efa-e4d9dfca-695f9a3b.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=5e19 ldirty=0 rusn=27 fname=google-56063aca-c1096149-2ef4bccb-c8f11802-e1efe501.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=88e5 ldirty=0 rusn=28 fname=google-015dc261-75e9bd2b-e1a879e3-29f8b6a4-753b23ea.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=05c4 ldirty=0 rusn=29 fname=google-75995a20-5fe4f082-ff02c7b6-04eff7af-1a138b05.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=028e ldirty=0 rusn=30 fname=google-825797ae-e0cc3de4-d10bca7f-44181f30-811e50fb.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=bb26 ldirty=0 rusn=31 fname=google-d138c424-a6571f75-2496a9d9-97475c35-6dad9de9.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=3d00 ldirty=0 rusn=32 fname=google-5af869ad-1ab9613c-b46308c0-48e3c669-c0f9eb8a.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a23d ldirty=0 rusn=33 fname=google-47e85c4f-a4fa4f68-daaa302a-4a9723a3-47506087.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=8457 ldirty=0 rusn=34 fname=google-31a9353d-2098fb88-2eb6c5c9-3d844c7c-39a0bdb3.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=ec09 ldirty=0 rusn=35 fname=google-def01670-a9a67a80-8ffb421c-9ece535a-44df3ca4.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b45c ldirty=0 rusn=36 fname=google-04f68ea4-ec7eacb2-d13cf493-685fdb2b-65ddecc6.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=50c9 ldirty=0 rusn=37 fname=google-b3764c03-46459eb8-a46294b3-c4f6729f-7f42c6d1.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=cc4a ldirty=0 rusn=38 fname=google-92bcd324-55fe3b66-dbc0654c-25ac9b1d-bc2a1dde.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a813 ldirty=0 rusn=39 fname=google-5680402b-791ab4a1-2572982b-9c4db434-96886d43.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=f422 ldirty=0 rusn=40 fname=google-24e0c058-a94a9624-2829984e-67f67b6e-e3db5687.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=cb04 ldirty=0 rusn=41 fname=google-a03d2d73-7ff3bb4b-147451c7-ca147730-8798a7d9.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c6b6 ldirty=0 rusn=42 fname=google-a38e1593-8aa662b9-2379f6f2-3dd43072-dd69e737.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=d0b5 ldirty=0 rusn=43 fname=google-9776b678-baf3b383-c1b9ce1e-e1bd8db7-0d9476e8.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c9b2 ldirty=0 rusn=44 fname=google-aaf3a013-d583c789-0c5cb6e6-0a6617cc-b9122f2f.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=3f14 ldirty=0 rusn=45 fname=google-76576aba-d029d1d6-a1ab4058-043506bd-091bc724.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4594 ldirty=0 rusn=46 fname=google-5ca3fce4-157ce496-b71bc0ee-3323ec13-73ff35b2.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c24f ldirty=0 rusn=47 fname=google-993941ef-049fb2a0-34beb9f6-53d2b32f-44b0e1d1.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=6291 ldirty=0 rusn=48 fname=google-71ef9217-b3aa3117-ba939495-001c2aff-f5793015.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=e8bd ldirty=0 rusn=49 fname=google-a48ecdd1-81c7face-65a4cf8d-fe862fed-74321195.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=3b54 ldirty=0 rusn=50 fname=google-320c3ee2-23178f88-27aea9dc-11b24088-d4418246.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a7b0 ldirty=0 rusn=51 fname=google-e5fca9d3-1525b869-f956ca87-2f9a00a3-44e1b471.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=619f ldirty=0 rusn=52 fname=google-984a5054-651f6330-8cadfe18-6c0c3737-6bf4c530.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=70e0 ldirty=0 rusn=53 fname=google-d1e60129-9e0e67fb-7018b650-9319e11a-64d23759.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c0ed ldirty=0 rusn=54 fname=google-72510f23-7c40af23-3232982f-d8f53031-92f0b691.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=2c6e ldirty=0 rusn=55 fname=google-1e338ac3-dcdac865-d0ce34c4-6a7a0ed8-9a12899c.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=0b8c ldirty=0 rusn=56 fname=google-93cd6195-c88d4c52-1923ed9c-6a4b5518-43810786.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a6b0 ldirty=0 rusn=57 fname=google-8367ee88-2b12afc2-44bb99e4-2af1ce8a-9eaf1e23.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4fef ldirty=0 rusn=58 fname=google-b7e3367b-f9ac5068-2219d403-34a17fa1-2062feb5.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4d6f ldirty=0 rusn=59 fname=google-73cd1bcd-a746cfb0-5b66c373-e9411140-a6ca485e.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=41b3 ldirty=0 rusn=60 fname=google-0427f26d-e6ad0b26-cff40120-9c47338b-e89adca6.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=ae00 ldirty=0 rusn=61 fname=paste-ae001d3a9a6707276dea30dc92e39d0d5d57ceb5.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=94e8 ldirty=0 rusn=62 fname=google-db53e936-45068855-80291856-8e2f6ad2-9c8204b5.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=8195 ldirty=0 rusn=63 fname=google-d9586a9d-1d48c88d-b657f269-2d702481-f26ddee7.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=9809 ldirty=0 rusn=64 fname=google-c4ce5372-01af9e76-79511a33-f9b9e752-40fcca24.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a85d ldirty=0 rusn=65 fname=google-d9c4e131-17548a37-b121294c-ed13541a-bf1abb21.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b72f ldirty=0 rusn=66 fname=google-3ca09a1e-592387c6-42d7d93b-f9d73ab7-4a65e021.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c4f3 ldirty=0 rusn=67 fname=google-ebda6c15-77298a27-50e1e784-3c4e23a3-e6204b93.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4a54 ldirty=0 rusn=68 fname=google-e8901359-5a015566-5226a6b1-2b2aa9ef-8606dfcf.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c629 ldirty=0 rusn=69 fname=google-daaec37e-c6f2fe85-6aee626e-e7112b97-7d5dd24d.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b86e ldirty=0 rusn=70 fname=google-0fc122d1-338f1954-3f43c2e9-ec1edf89-350f288d.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=5178 ldirty=0 rusn=71 fname=pronunc7886769099946579792.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=f43b ldirty=0 rusn=72 fname=google-0d43669f-3e27c785-28df140d-2c8df1c3-b96e70e9.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=74b8 ldirty=0 rusn=73 fname=google-84a2a643-4fbab1aa-fea86d64-f6206ab0-8d33e436.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=42c4 ldirty=0 rusn=74 fname=google-d9b9d544-2a68c91b-cbaf1bd1-284ea36f-39021a4f.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=f4e1 ldirty=0 rusn=75 fname=google-2000fddf-d8621bd6-c1a0de87-e6f59348-64e5acbe.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c937 ldirty=0 rusn=76 fname=google-97990e4c-afe9e7ea-5fc55d49-8b8173f7-1f95aae7.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=589d ldirty=0 rusn=77 fname=google-1c49b8a7-4451e7f2-cab024b3-20dff996-885ae52c.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=87e0 ldirty=0 rusn=78 fname=google-8ad229fe-6049d193-deadf374-d52d14fb-949b604a.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=6b02 ldirty=0 rusn=79 fname=google-9c87579a-82470690-9f7f7c68-4e01cd6d-594e8531.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=94d2 ldirty=0 rusn=80 fname=google-6812399a-b9459de7-3964d964-a86b2751-4ec358f0.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=1126 ldirty=0 rusn=81 fname=google-231b0832-11225113-6d59ec57-fc2ba919-e0a18865.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=bac2 ldirty=0 rusn=82 fname=google-58110091-33179020-9d2bc867-bd44112a-e4597b33.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a7c8 ldirty=0 rusn=83 fname=google-741cdb97-c3b340c3-7a155b31-e78a3239-b5c9d545.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=42d0 ldirty=0 rusn=84 fname=google-389ecf63-816a3d98-0e396b59-fb44c07e-42664275.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=9c91 ldirty=0 rusn=85 fname=google-dd59b4f0-762380c6-3cd7e85d-70a9cb49-ce5f0921.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=60c6 ldirty=0 rusn=86 fname=google-ce70902d-81824428-30d9856b-e117d6c4-0dac34e5.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=82fe ldirty=0 rusn=87 fname=google-436f1ee8-3dcb0bdd-c91f14f3-e8e2baa1-3a119325.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=dbef ldirty=0 rusn=88 fname=google-68b8853f-cb6d6a2c-2c6f3b6d-82ab55a1-d6b89288.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=f4bb ldirty=0 rusn=89 fname=google-3cf065b7-6f5689cf-7d8d1597-087a9872-5c65e3c5.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=9cb7 ldirty=0 rusn=90 fname=google-7fe7f137-6a68247a-04371508-0f5e674a-96120e99.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=fd5d ldirty=0 rusn=91 fname=google-ed49c608-dcf05ba3-ffbef71f-abb0416e-972dc082.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=8d6d ldirty=0 rusn=92 fname=google-171d7804-a1239889-9fc0f746-f0d92c68-c9959b5c.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=de62 ldirty=0 rusn=93 fname=google-880c13b0-a3d21864-f3bb16a7-320ef612-4619a8fc.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=795b ldirty=0 rusn=94 fname=google-1955c0f3-21c094da-344a5ec9-8f876afb-cd073dfb.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a903 ldirty=0 rusn=95 fname=google-1d139bcc-b77a7321-179d64b9-f19037ee-8c6583d3.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=8d40 ldirty=0 rusn=96 fname=google-2c2fc693-25b71b7e-aed9eb81-b39e1e41-9e17004a.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=66a0 ldirty=0 rusn=97 fname=google-49e864e5-7723c9a6-106d67de-9c1b0f17-5d0d8824.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c2ee ldirty=0 rusn=98 fname=google-513265a4-8fcc7a2d-7cbe311b-895b2cce-73671c8f.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=398b ldirty=0 rusn=99 fname=google-5587b10e-30bb0732-f31a11d1-62d06900-689deebe.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b6b7 ldirty=0 rusn=100 fname=google-5c258a40-00ed6807-17d3b1a4-eaed8faf-7cfae15f.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=2760 ldirty=0 rusn=101 fname=google-66dc2c7b-0cccca0f-658f9b3d-52369c35-60477c06.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=eed1 ldirty=0 rusn=102 fname=google-6faf0a4d-fe52b4a4-f1933426-42949a87-5dcab1e0.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=15c7 ldirty=0 rusn=103 fname=google-705178d4-123310ac-742b1266-06ba0099-65669d27.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=0369 ldirty=0 rusn=104 fname=google-7208f108-e42963a6-62f37d37-0cc9372a-6d2130b3.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=3567 ldirty=0 rusn=105 fname=google-815fc2c0-7ba8b14a-5b448068-f86c9cb0-294952fe.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=8ad9 ldirty=0 rusn=106 fname=google-91221d4d-9cd50067-d77b819a-7aa32904-14e39d38.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=93ee ldirty=0 rusn=107 fname=google-9afc4d4a-57fa5637-65871de6-e2ed80c0-0b4491ec.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=d0ad ldirty=0 rusn=108 fname=google-9e9c9ea1-49b6a7e0-2ce11f48-a74f96f6-1940f78b.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=fafa ldirty=0 rusn=109 fname=google-a9d64bd2-fa6bcc68-412a6479-fc39d5e6-6f4b9cc2.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4096 ldirty=0 rusn=110 fname=google-bd6d09fd-b430ad2e-9cf99b6b-306b0792-440e47f6.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=9d32 ldirty=0 rusn=111 fname=google-bdd30281-f55367d6-e090d3e6-cd521b4b-39410dad.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c038 ldirty=0 rusn=112 fname=google-c242b78c-b97af087-866c98ad-61afbb41-31a33094.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4661 ldirty=0 rusn=113 fname=google-c2d2e474-cdfee973-f745368e-bf464fea-2791efae.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b056 ldirty=0 rusn=114 fname=google-d556636b-384ee64d-5ebab3a4-6ea3068b-acea8fbb.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=0053 ldirty=0 rusn=115 fname=google-bf1dace4-1c330d65-ea1b080f-fd849c23-e459776c.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4adf ldirty=0 rusn=116 fname=google-ca742501-a7e9e33e-85ec3d97-981ebcd9-fdbaca2f.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=54ef ldirty=0 rusn=117 fname=google-49cb2003-d78866ea-5fc032be-01f20a54-27c54df2.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=7a7e ldirty=0 rusn=118 fname=google-7ad53e7b-3229abb3-363dd723-816abeec-1b009697.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=01e1 ldirty=0 rusn=119 fname=google-9fe5a472-ca36f306-f031a8f5-7fd35202-1d201813.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=492f ldirty=0 rusn=120 fname=google-05606947-191daa09-d947ab70-bea10910-2a346f98.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=2a99 ldirty=0 rusn=121 fname=google-077dab4c-81819394-16443f11-0db6ca12-04038d97.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c37f ldirty=0 rusn=122 fname=google-5633a1ef-05e72cea-8889b3d1-b380a770-805e6a59.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c1b2 ldirty=0 rusn=123 fname=google-56b84a6c-4517f522-29600bd7-d6528710-a0b80ba4.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=5ae4 ldirty=0 rusn=124 fname=google-8646eb34-cda5d9d3-3b8fed91-1198f2d9-244c3593.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=8e43 ldirty=0 rusn=125 fname=google-87eccbf7-e53269f8-296f9b4c-a75cac61-a233b0cb.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=d3a3 ldirty=0 rusn=126 fname=google-9ec43823-59bb1cf5-ea18209a-ebde5d61-5a5191d7.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=35c1 ldirty=0 rusn=127 fname=google-ebf605d7-414c9841-fd618c50-b592f3b1-69a79584.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=6319 ldirty=0 rusn=128 fname=google-179afc8b-30a9eef4-b2ead844-3557e781-a11f8e7a.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=992e ldirty=0 rusn=129 fname=google-272f8fd4-f7e5ddf7-fca2c40d-183210af-4c8b8334.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c3c1 ldirty=0 rusn=130 fname=google-45a53a99-848e82eb-7c7e2bb0-33634898-9b37612c.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=d8a3 ldirty=0 rusn=131 fname=google-49c97884-660e30a9-ae8792ae-434c07ff-a984e258.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=014a ldirty=0 rusn=132 fname=google-54b451a1-695659f7-4a65c8a9-f4825823-d90b3711.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b302 ldirty=0 rusn=133 fname=google-606a018e-6a919945-cc9f3f78-4e74bd6a-065670fd.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=445c ldirty=0 rusn=134 fname=google-8aad7345-121e0448-842d418f-f5d344eb-0b46b0e8.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=1ab4 ldirty=0 rusn=135 fname=google-8be26692-3d4fc23e-1dc4cf25-7dad0450-a8dee8bc.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=049c ldirty=0 rusn=136 fname=google-a6724218-e566541a-2c7f3ecd-3cacb49e-59b7d1cc.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=80a2 ldirty=0 rusn=137 fname=google-c66ecab4-a739f1fb-1521492a-53614ded-39afb971.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=f069 ldirty=0 rusn=138 fname=google-dcb66252-ac6796b6-99b60623-11d25c6d-533bfae6.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b009 ldirty=0 rusn=139 fname=google-e693a088-d13b93bc-dfa42379-e8a15858-38d13514.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=3ebf ldirty=0 rusn=140 fname=Capture2.JPG
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=9b15 ldirty=0 rusn=141 fname=Untitled-1.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=8ecb ldirty=0 rusn=142 fname=paste-8ecba01c03f781299baa46244db7361f661126a4.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=d224 ldirty=0 rusn=143 fname=young-woman-walking-down-city-stairs-drinking-coffee_1262-19097.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=f1f8 ldirty=0 rusn=144 fname=01.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=fbf6 ldirty=0 rusn=145 fname=02.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=04d0 ldirty=0 rusn=146 fname=03.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=2f12 ldirty=0 rusn=147 fname=04-2f12f0e99b83f032fa6574412b8998a78103cb27.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=2d0b ldirty=0 rusn=148 fname=04.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=adf8 ldirty=0 rusn=149 fname=05.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=65f9 ldirty=0 rusn=150 fname=06.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=ef16 ldirty=0 rusn=151 fname=07.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=6967 ldirty=0 rusn=152 fname=08.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=f2e0 ldirty=0 rusn=153 fname=09.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=8c4d ldirty=0 rusn=154 fname=10.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=38b0 ldirty=0 rusn=155 fname=11.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=bc91 ldirty=0 rusn=156 fname=12.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=6879 ldirty=0 rusn=157 fname=13.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=595a ldirty=0 rusn=158 fname=14.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=300a ldirty=0 rusn=159 fname=15.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=04c4 ldirty=0 rusn=160 fname=16.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=1764 ldirty=0 rusn=161 fname=17.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=ca05 ldirty=0 rusn=162 fname=18.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=ce59 ldirty=0 rusn=163 fname=19.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=0404 ldirty=0 rusn=164 fname=20.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=367d ldirty=0 rusn=165 fname=21.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=ca5c ldirty=0 rusn=166 fname=22.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a4e3 ldirty=0 rusn=167 fname=23.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=64de ldirty=0 rusn=168 fname=24.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=ef84 ldirty=0 rusn=169 fname=25.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c13b ldirty=0 rusn=170 fname=paste-c13bc48f5fc82967333ba0dcf5b8f1729545eeda.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c047 ldirty=0 rusn=171 fname=paste-c047e14da36fd16790765c22ad62a45dac8fb060.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=3047 ldirty=0 rusn=172 fname=v4-460px-Be-Aloof-Step-1-Version-5.jpg.webp
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b90e ldirty=0 rusn=173 fname=google-0f76e5d5-3a0f1560-4a92359d-be7088c7-b4ec1b47.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=cce6 ldirty=0 rusn=174 fname=google-e021d52a-e5481608-158cbaa7-7c1925da-957b7376.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=8cdb ldirty=0 rusn=175 fname=1.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=aa4e ldirty=0 rusn=176 fname=1626355400_222349_url.jpeg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=ea54 ldirty=0 rusn=177 fname=20-Everyday-x-Every-day-2BLOG.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=9028 ldirty=0 rusn=178 fname=2a898ad890159ad48e0c3da71b3d3aa8.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=6f47 ldirty=0 rusn=179 fname=41YGQc2AAiL.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=93f7 ldirty=0 rusn=180 fname=HTB1vXgYf.3IL1JjSZFMq6yjrFXav.jpg_.webp
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=1f03 ldirty=0 rusn=181 fname=WhiteTShirt.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=dfb1 ldirty=0 rusn=182 fname=d1kk4hv-4cce8d4c-7564-4b7a-a61d-8b28c5164a8d.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=8987 ldirty=0 rusn=183 fname=diff.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a2f2 ldirty=0 rusn=184 fname=fashion.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=3335 ldirty=0 rusn=185 fname=ferias-1.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=5881 ldirty=0 rusn=186 fname=google-56a61624-d5560ddb-3855819e-5fc94171-4978174d.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=239a ldirty=0 rusn=187 fname=google-600074f6-33a837c2-b87634b4-e8e86517-f6bd4671.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=80b3 ldirty=0 rusn=188 fname=google-69be4fca-528eb793-469ed799-d2a1d6ea-ed4cb99c.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=e946 ldirty=0 rusn=189 fname=google-9207ad74-30a0dbdc-e3863c8f-b51e5230-7f11c361.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a15a ldirty=0 rusn=190 fname=google-986d7d13-97c268af-60995b6b-d89aaa9d-2d47e3c7.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=66a8 ldirty=0 rusn=191 fname=google-a7591f88-f7f36e4d-64958b6f-347b1cbd-5909c0a3.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=1313 ldirty=0 rusn=192 fname=google-b219965e-251d4f6c-e1e5e22f-d0072925-45c6cf02.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=3254 ldirty=0 rusn=193 fname=google-c445a355-c7f4ae33-3a860e0f-a25b4dd6-88012571.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=427d ldirty=0 rusn=194 fname=google-d23b0e2a-c9e88f13-e5b6b0fa-ccfe5ebe-9bde0bb6.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a7a6 ldirty=0 rusn=195 fname=google-defb4c45-749fcb85-55cde97c-0e407bf6-ebf44053.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=87e1 ldirty=0 rusn=196 fname=google-e16e82c3-a6c9e3ba-7d2d91a7-83841728-5addb804.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4459 ldirty=0 rusn=197 fname=google-f2307b58-8b3986ba-33d4383f-cb96cc3a-b6a23809.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=e0b5 ldirty=0 rusn=198 fname=google-f95eeefc-6f81b57b-810e7c45-53c3d405-5d41f13a.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b841 ldirty=0 rusn=199 fname=gradual.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c490 ldirty=0 rusn=200 fname=i-am-getting-used-to-it.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=9436 ldirty=0 rusn=201 fname=images.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=6871 ldirty=0 rusn=202 fname=moletom-adidas-tf-om-hoody-4128d6739b59096e52b7c53e2e907a7d.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=ff75 ldirty=0 rusn=203 fname=paste-ff75835ec115c1b95d36004321ab0893049c77ab.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=544f ldirty=0 rusn=204 fname=position-of-neptune.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=53f1 ldirty=0 rusn=205 fname=(26)-r.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a436 ldirty=0 rusn=206 fname=26.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=abb8 ldirty=0 rusn=207 fname=27-r.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=f5ea ldirty=0 rusn=208 fname=27.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=661c ldirty=0 rusn=209 fname=28-r.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b933 ldirty=0 rusn=210 fname=28.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=cf4a ldirty=0 rusn=211 fname=29-r.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b612 ldirty=0 rusn=212 fname=29.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=d40c ldirty=0 rusn=213 fname=30-r.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=e677 ldirty=0 rusn=214 fname=30.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a06e ldirty=0 rusn=215 fname=31-r.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=8c7d ldirty=0 rusn=216 fname=31.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=ebff ldirty=0 rusn=217 fname=32-r.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=8fb7 ldirty=0 rusn=218 fname=32.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=633b ldirty=0 rusn=219 fname=33-r.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=1cd4 ldirty=0 rusn=220 fname=33.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c5d3 ldirty=0 rusn=221 fname=34-r.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=092d ldirty=0 rusn=222 fname=34.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=5941 ldirty=0 rusn=223 fname=35-r.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=7cbd ldirty=0 rusn=224 fname=35.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=9758 ldirty=0 rusn=225 fname=36-r.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=2639 ldirty=0 rusn=226 fname=36.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=e6dd ldirty=0 rusn=227 fname=37-r.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a7e6 ldirty=0 rusn=228 fname=37.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=d9cf ldirty=0 rusn=229 fname=38-r.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a2b2 ldirty=0 rusn=230 fname=38.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=830c ldirty=0 rusn=231 fname=39-r.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=fc09 ldirty=0 rusn=232 fname=39.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=3aeb ldirty=0 rusn=233 fname=40-r.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=573b ldirty=0 rusn=234 fname=40.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=99f6 ldirty=0 rusn=235 fname=41-r.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=973c ldirty=0 rusn=236 fname=41.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=d311 ldirty=0 rusn=237 fname=paste-d31153ccce202043146c2848c20152bb158bc1f3.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=5048 ldirty=0 rusn=238 fname=1001725.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=33b8 ldirty=0 rusn=239 fname=745759.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=ffea ldirty=0 rusn=240 fname=998446.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=12ab ldirty=0 rusn=241 fname=google-0587df46-1e774e36-5b1354fa-31ea0ef1-76de0ac8.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=2e3a ldirty=0 rusn=242 fname=google-02649d38-17382527-77e2f33f-2f67b2e3-d7d85f29.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=e12e ldirty=0 rusn=243 fname=43.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=36c9 ldirty=0 rusn=244 fname=44.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=d1ba ldirty=0 rusn=245 fname=45.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=e7d6 ldirty=0 rusn=246 fname=46.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4de7 ldirty=0 rusn=247 fname=47.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=494e ldirty=0 rusn=248 fname=48.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=cb23 ldirty=0 rusn=249 fname=49.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b6a5 ldirty=0 rusn=250 fname=google-0a405da5-0b6555c2-3c378efc-eaf1e862-0b4861bd.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=57a7 ldirty=0 rusn=251 fname=paste-57a76687dab918a0b4915d063a259a4c23d2ab5c.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=e505 ldirty=0 rusn=252 fname=google-068012cf-b81197a1-fa4e28e2-507c7239-7a1b223a.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=f38a ldirty=0 rusn=253 fname=google-15e9a250-c40effa5-689db4aa-7b76d555-96ccdd72.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=9b15 ldirty=0 rusn=254 fname=google-5bcaa470-ffa1ec3d-49cc7734-7790db14-c4e3e1e7.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=cd38 ldirty=0 rusn=255 fname=google-5c6001a6-f19a869c-a38c638b-33d8efff-af7c9f0c.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=ea44 ldirty=0 rusn=256 fname=google-5f37b366-c396a659-7fb6127a-d0c508a3-a48415c7.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=7b55 ldirty=0 rusn=257 fname=google-9cfad2eb-bc3c3897-d68e86ea-99c435eb-2b156d5e.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=107f ldirty=0 rusn=258 fname=google-a562890f-f536515b-2fa0fddd-0bb16ee4-032d91ce.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=d1d2 ldirty=0 rusn=259 fname=google-ad64c000-f3442dc4-2776c7aa-34725bc8-e593977a.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=d05b ldirty=0 rusn=260 fname=google-b10e3223-06ce31ca-bc4e3ed1-a6a8be1a-003944f6.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=52ea ldirty=0 rusn=261 fname=google-bd4c027e-f2a976fe-7afa12de-0b446649-60544f97.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4acd ldirty=0 rusn=262 fname=google-d137bab4-bd0ea184-13105ad4-0f648501-e8b2665b.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b3d7 ldirty=0 rusn=263 fname=google-d2e6dddc-85c2a278-6457f7d5-936dd90f-f0e9a756.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=077f ldirty=0 rusn=264 fname=paste-077ff2bda21c2e66398250817256691354549916.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=5ea2 ldirty=0 rusn=265 fname=paste-5ea2fb91968824db5bca9266b4955f16ddda8f65.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a873 ldirty=0 rusn=266 fname=paste-a87379d1f763188e0779e22f0acc753af221d468.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=bfa8 ldirty=0 rusn=267 fname=paste-bfa8e25d80361cb6735e6a25a1a9b38effb6baae.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c018 ldirty=0 rusn=268 fname=paste-c0183012ed0ee47b58e539b5344bd9c5b9c91ba1.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c1dd ldirty=0 rusn=269 fname=paste-c1ddcf0fe738637caccbc3afe5dfac015a7f7276.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c639 ldirty=0 rusn=270 fname=paste-c63971a6e2bd64cc078c99e445a831028b28f4af.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=f1a5 ldirty=0 rusn=271 fname=paste-f1a5d00543761155cad5c0c6fd73b81f2bb4f3c2.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b573 ldirty=0 rusn=272 fname=google-31d3ee46-429e66a7-0134161d-21be8401-6c6f5c27.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4c81 ldirty=0 rusn=273 fname=google-0c6d93aa-ab82f649-c92c6ee6-a318c95a-dba2b49a.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=70aa ldirty=0 rusn=274 fname=google-2f273324-8424138f-1b69b7c9-d48d5a3e-41bdb07c.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=af01 ldirty=0 rusn=275 fname=google-3a4ddeea-6ec8c20b-a33820ba-85da7691-03d1dbc7.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=afd9 ldirty=0 rusn=276 fname=google-3bcbd8ce-c3fd91b4-c135441e-952a37b9-fa9228ef.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=7496 ldirty=0 rusn=277 fname=google-4fcc0e80-d117ebb2-a351136f-023e8e08-155a1748.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=8608 ldirty=0 rusn=278 fname=google-861a86ea-316edc93-befee567-1cb1f0cb-c7ca1261.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=8eb0 ldirty=0 rusn=279 fname=google-898bc181-02e8f4ac-34e7d8fa-1a815c2a-da3a8d74.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=2366 ldirty=0 rusn=280 fname=google-a161e09f-dde52b75-ee6235df-c6605617-0f1a93c2.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=7026 ldirty=0 rusn=281 fname=google-b6e0514f-1717bad6-7127f9c4-b9cfc8a5-f7810070.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=6c76 ldirty=0 rusn=282 fname=google-d54b5a77-560741f7-3b56ad65-55dee4e3-effef7d9.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=da89 ldirty=0 rusn=283 fname=google-d587d756-7527fa39-a98cf445-7209a5de-8ebcfcf9.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=ea23 ldirty=0 rusn=284 fname=google-f1ba0d35-5143a431-50ac71c4-183cb399-aff7f169.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=22bb ldirty=0 rusn=285 fname=paste-22bb22d51c8679a16b3e27c20cdb588c97f78ff5.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=350b ldirty=0 rusn=286 fname=paste-350b771c4ff02c0b7e62adc9af70f3e2e146b2ca.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=38a1 ldirty=0 rusn=287 fname=paste-38a17661991b989f244dbc2026f06f9214ead7c0.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=5664 ldirty=0 rusn=288 fname=paste-566455e895bf33c82446b173cbce28d421d63bb9.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=8bf0 ldirty=0 rusn=289 fname=paste-8bf01851860af6859eb7c8c9aeb55743e9f8d126.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a3fd ldirty=0 rusn=290 fname=paste-a3fd5364b54378536d8e5888967c57fb77c52522.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=aa0a ldirty=0 rusn=291 fname=paste-aa0a30432aaf5c4def279b169fb4311e1a0749f8.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=ab6a ldirty=0 rusn=292 fname=paste-ab6ae6b9fd65f0e5bc3738fca855fa423bbd8c13.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=dd92 ldirty=0 rusn=293 fname=paste-dd92e945c3efafc2d0a79902b83e78b21905456e.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=e441 ldirty=0 rusn=294 fname=paste-e441f65d49e217646e3c065a7d740637fdd0bc19.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=0b5e ldirty=0 rusn=295 fname=paste-0b5ea6d7419aeb9c6d6a01e0b1dbe24268cfa99e.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=1ab7 ldirty=0 rusn=296 fname=paste-1ab7184ab6c8aa398c6444ca7210793e4d8d4cb5.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=2faf ldirty=0 rusn=297 fname=paste-2faf5ff39f18cd29939076ecb840ef54308f2322.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=53ba ldirty=0 rusn=298 fname=paste-53bab67d5568525061972e9f9a0fd048a8c5b9de.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=9184 ldirty=0 rusn=299 fname=paste-9184dc7ac8468ba8410e0a6bdca6e70c1f360316.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=91cf ldirty=0 rusn=300 fname=paste-91cf1c1cab80a10db6c5e589fcc7555753b13e1c.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b8b8 ldirty=0 rusn=301 fname=paste-b8b8de2858405a38ff6c0eebf089a8032e070cfe.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=fa14 ldirty=0 rusn=302 fname=google-22b1d097-50496c83-0fbc57dd-57f1c2c7-50ed43b0.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=172c ldirty=0 rusn=303 fname=google-3fce03b2-428e1493-6c443e23-409d9ec0-a8d371b8.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=69de ldirty=0 rusn=304 fname=google-58c060c8-636feeda-1e3659eb-ea8bd96e-e18f2803.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=019c ldirty=0 rusn=305 fname=google-afcbe1b5-9cf6e33a-4959ae1c-575ba1e9-c240da12.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=2201 ldirty=0 rusn=306 fname=google-bcc59185-15ffd9a1-da484184-acf1754d-e1b53b00.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=99fa ldirty=0 rusn=307 fname=paste-99facfc5ba55a3fd5837382b430e18cdd6d7ca41.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=fed6 ldirty=0 rusn=308 fname=google-106d77be-f6056926-ba97d87e-d6ae1ccf-8b298deb.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=6bb2 ldirty=0 rusn=309 fname=google-10dc5367-20a78ef2-207be8fe-437a068d-06e8ff62.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=3a3a ldirty=0 rusn=310 fname=google-3de97e4e-ec82d2b4-c240f3b2-db0e19c2-bdbde6a5.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=adad ldirty=0 rusn=311 fname=google-3e698585-a002dde2-a54fae31-8f981192-5d76839e.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=f3d5 ldirty=0 rusn=312 fname=google-68cf15b1-44bf5499-fa9ccb24-f2e59cbc-86d56254.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4f65 ldirty=0 rusn=313 fname=google-7db985be-00fd4617-07667f7a-0f648148-be1496d8.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=77f9 ldirty=0 rusn=314 fname=google-8d82c3d2-0dce690d-c1a850ed-f8e98456-417051cd.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=df23 ldirty=0 rusn=315 fname=google-f14277d3-42b87d31-212831d9-daeb44b3-687ffae9.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=319e ldirty=0 rusn=316 fname=paste-319ec7e81f9c3b59702c369db79f59e1c99e339f.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=343d ldirty=0 rusn=317 fname=paste-343df3a27d5727686db708ccf4f0c24f8fed8504.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=96ef ldirty=0 rusn=318 fname=paste-96effd4b02fe25737876cd789e3decd970d13d5f.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a5cd ldirty=0 rusn=319 fname=paste-a5cd0bec6c7ea92b360bd98921f06e942b7ac049.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=e19a ldirty=0 rusn=320 fname=paste-e19a4355aed286bab7b1328d5a8fe4316325838a.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=f2d0 ldirty=0 rusn=321 fname=paste-f2d0603c9d520522ce0ac9e339931216e03adcbb.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=f996 ldirty=0 rusn=322 fname=paste-f996b2fe1c9b0de9075d3cf4076e730b0072f79c.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=9107 ldirty=0 rusn=323 fname=algoritmo.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c7ca ldirty=0 rusn=324 fname=838781198928f3124e11.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=1b0d ldirty=0 rusn=325 fname=paste-1b0ddf6e0f0294889d6e168a98f34b4831d4ccb8.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=f9eb ldirty=0 rusn=326 fname=paste-f9eb716beb2441142c1cc4f567203d969a1c55ae.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=85d8 ldirty=0 rusn=327 fname=paste-85d80f512705cfa372bd07731ccb5b0a416cb93d.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=37a3 ldirty=0 rusn=328 fname=Boat+Made+of+Money.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=99e6 ldirty=0 rusn=329 fname=Gosford-messmate-timber-dining-table-1800-front-on-02__00409.1614728072.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=bbf6 ldirty=0 rusn=330 fname=google-46d217e7-8a7e2f2d-a4f1acef-5e31be49-772f1aa3.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=527e ldirty=0 rusn=331 fname=google-8848cfdd-459ca533-b6053c4e-27cfabd7-c0620110.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b132 ldirty=0 rusn=332 fname=google-d0bdc79c-907bbe25-021c719f-751440de-cef07941.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=2bf8 ldirty=0 rusn=333 fname=sky-x-heaven.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=cf35 ldirty=0 rusn=334 fname=32-329675_be-memorable-and-youll-always-have-agents-waiting-run-into-phrasal-verb.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=cd5e ldirty=0 rusn=335 fname=82b07dd0cef6e7f35ee8a7fb0c3dec5b.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=e8ce ldirty=0 rusn=336 fname=Cruise-ships-1.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=0358 ldirty=0 rusn=337 fname=Screen-Shot-2020-03-12-at-2.09.14-PM-539x500.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=6aa1 ldirty=0 rusn=338 fname=adult-sleepover-ideas.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=ffb2 ldirty=0 rusn=339 fname=fb-bigstock-Bearded-Business-Man-With-Spee-357187766.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=f68b ldirty=0 rusn=340 fname=google-197ba6e4-1aa42d68-c33d5692-38ba5cf8-521a97c7.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=d7f3 ldirty=0 rusn=341 fname=google-26067fae-1445c7df-ec810b64-383b1ef3-d84efd42.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=31b4 ldirty=0 rusn=342 fname=google-2629b073-5c2efc81-feaff1fb-fb4f2436-bdbed038.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=7b27 ldirty=0 rusn=343 fname=google-4f5ca963-a6b5c294-b9ae9758-f03a667e-98e2bf32.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=cb9a ldirty=0 rusn=344 fname=google-6b0d0d97-fa5a34b7-20174fa4-fedd6ebc-042a4761.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=36ee ldirty=0 rusn=345 fname=google-783ebf09-64f95781-4fb9f267-cb9073d3-5ad9100f.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=3a49 ldirty=0 rusn=346 fname=google-a277b959-62414ae1-eff46e45-dcead199-ae5aaba6.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=3a83 ldirty=0 rusn=347 fname=google-d3048832-7e50f4e2-026d60e0-ad442f8f-c6b84f13.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=3bb6 ldirty=0 rusn=348 fname=google-e334138d-1aaa876d-c3bf635a-6124e1b1-f7840bca.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=aed2 ldirty=0 rusn=349 fname=google-fb7370f7-da45ef02-450e97ad-1211b0ff-1aee70e0.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b645 ldirty=0 rusn=350 fname=por-do-sol-no-cais-de-madeira-ou-cais-no-mar-com-barco-e-casal_212328-849.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=5e03 ldirty=0 rusn=351 fname=v4-460px-Show-Affection-to-Someone-Who-Needs-It-Step-1-Version-2.jpg.webp
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4bad ldirty=0 rusn=352 fname=young-man-with-heavily-tattooed-body-smiling.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a619 ldirty=0 rusn=353 fname=paste-a619157f2a60ffa04c54f38e581370f67404e40c.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=e98d ldirty=0 rusn=354 fname=blusa-digby-hoody-preta-triumph-sku-msws21015.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=55ef ldirty=0 rusn=355 fname=sapi5js-0a2fe35b-681cb16f-df2c1938-20c8a20a-2c4e62fe.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=533d ldirty=0 rusn=356 fname=sapi5js-2b93921e-38539b06-3abb9b33-fa63fa9b-45d3532f.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=5e83 ldirty=0 rusn=357 fname=sapi5js-624d2a2b-6b78241a-d2081a80-0f76155a-ccf5aef8.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=6185 ldirty=0 rusn=358 fname=sapi5js-bcc67de0-2f781e4b-466e5d21-7c5d739a-4b639c3c.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=da79 ldirty=0 rusn=359 fname=sapi5js-bea9fe82-ab212a90-7794eb4e-e46c751f-643f04c0.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=abde ldirty=0 rusn=360 fname=14l1DUdx4WEk-79ysJ7Utvg.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=220c ldirty=0 rusn=361 fname=1rwBTtRp1PooCqHx3ignjbQ.jpeg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=0fe1 ldirty=0 rusn=362 fname=57a4edbc2a0000fa01fb5027.jpeg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=5ccd ldirty=0 rusn=363 fname=a4b768922fdde50616b042d1b136fc2564ef083e_original.jpeg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=6ea7 ldirty=0 rusn=364 fname=angry-young-woman-having-bad-260nw-712179856.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=34a3 ldirty=0 rusn=365 fname=google-1ccd8f94-cf1b54d9-4d989f04-31c1dc76-73826816.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=11a0 ldirty=0 rusn=366 fname=google-20c5406a-a20e36ee-66513c99-9682581a-386519fe.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=1deb ldirty=0 rusn=367 fname=google-5e0f3551-b3a6a506-6e134b77-309669a9-fd364ccf.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=8c8f ldirty=0 rusn=368 fname=google-75bf0603-7e8b9ebc-5bda37fc-d330fd52-1e3036e9.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=765b ldirty=0 rusn=369 fname=google-8a4ec467-fffef3ff-e8cd6bbd-453d6cf8-78f318e5.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=7802 ldirty=0 rusn=370 fname=google-96e6b432-eac66f28-f73651a3-7c54ecdf-3a5e3f09.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=5461 ldirty=0 rusn=371 fname=google-97274b9d-3369712d-df115929-9072492d-1cd6602c.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4d46 ldirty=0 rusn=372 fname=google-99998365-e6bf4e9b-d60337f6-8b81067d-090faf07.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=7283 ldirty=0 rusn=373 fname=google-ac916582-8fd3e8d2-34f9f523-5ac1e5ef-677f1eaf.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=6fc5 ldirty=0 rusn=374 fname=google-acffae3e-15384c1f-0f3099fc-3c39f922-ff7a1859.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=fdf6 ldirty=0 rusn=375 fname=google-ada6b16a-86c81d60-cd745e0d-c31b7a0d-4b686a6c.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=9dad ldirty=0 rusn=376 fname=google-e02e4674-4c4471d9-38c3b09e-256025e6-11999f3e.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=80b9 ldirty=0 rusn=377 fname=google-e0ab78da-5e73103c-86eb4421-029b2f4f-576093e1.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=e1a5 ldirty=0 rusn=378 fname=google-f54d093e-3b11383d-6b59cd2f-c0dd7598-0248b5d1.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=5c99 ldirty=0 rusn=379 fname=images-5c99f73c6d7573e53aa55f5969b29c426d3a3005.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=7456 ldirty=0 rusn=380 fname=paste.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=5b1e ldirty=0 rusn=381 fname=polished-concrete-1.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=e6d0 ldirty=0 rusn=382 fname=sapi5js-b23e80c0-229be5d0-e4e928af-fa85576b-070fd5d4.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=6750 ldirty=0 rusn=383 fname=sparkling-jewelry-7308898.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=6801 ldirty=0 rusn=384 fname=61ypvjDvj3L._AC_SL1500_.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=3037 ldirty=0 rusn=385 fname=C5CB2927-D358-4AF4-92B5-0E2AF7DFA944.jpeg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=0a5f ldirty=0 rusn=386 fname=Dry-Clean-Vs.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=20bb ldirty=0 rusn=387 fname=confused-guy-does-not-know-260nw-664670398.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c332 ldirty=0 rusn=388 fname=ghi-colognes-men-1673021248.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=946c ldirty=0 rusn=389 fname=google-0ed32078-f16b0772-7876ba51-e9fadf6c-b5b0ca9a.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=31b4 ldirty=0 rusn=390 fname=google-206deab8-24fdbe9d-1880ba42-dead525b-3d5bac28.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=9d0a ldirty=0 rusn=391 fname=google-378470be-b5662929-c2f81ebd-2cc0cb38-98aedbd6.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a40e ldirty=0 rusn=392 fname=google-4b8ffde9-eaac7e37-07bb92a6-ee92a176-227ac562.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4b84 ldirty=0 rusn=393 fname=google-53bc8081-2abbdec8-7b6e5ad7-3bce8340-98fb85c2.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=1aba ldirty=0 rusn=394 fname=google-815dde81-0511fddf-b07236f1-f4e7acdf-fb9fca06.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=6662 ldirty=0 rusn=395 fname=google-86e41d56-4d91b9e0-2efee35d-4a23c81c-19af4f50.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4a94 ldirty=0 rusn=396 fname=google-9dde0b05-6ee45082-74c32894-1cf7ea88-443acb0b.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=fc19 ldirty=0 rusn=397 fname=google-abe14d9e-dd7d75dd-9e39b9c6-a089f587-c768c29a.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=0d27 ldirty=0 rusn=398 fname=google-b060c057-363afe15-6b693774-c44793d4-ab0fe131.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=89bb ldirty=0 rusn=399 fname=google-b74d1bf2-0fd6c9aa-d97c65f5-03d2a326-226c9697.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=22f0 ldirty=0 rusn=400 fname=google-fc43313a-ae18d0a1-41109588-fd7d974e-92770a9a.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=7e03 ldirty=0 rusn=401 fname=isolated-illustration-man-pushing-empty-grocery-cart-hurriedly-fast-male-shopper-silhouette-121106819.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c6fa ldirty=0 rusn=402 fname=pretty-florist-posing-with-bouquet_23-2147762236.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b7bb ldirty=0 rusn=403 fname=trench_1200x.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=2a9a ldirty=0 rusn=404 fname=google-22213f5f-9b85e8b7-677ddde5-e2d1cc5f-0dbc2f64.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=ad9b ldirty=0 rusn=405 fname=google-237b34f2-ab1cac25-c1fd059f-27268742-15589552.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=0f33 ldirty=0 rusn=406 fname=google-2455583a-857377af-1e76defd-f9dc2c86-8e0444d1.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=6351 ldirty=0 rusn=407 fname=google-2b476865-fc8a9555-b7202fe2-e63988b1-a3cc67e5.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=1ff1 ldirty=0 rusn=408 fname=google-428e0b41-af119cf9-e334d9fa-731cacab-5d2661cd.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=1776 ldirty=0 rusn=409 fname=google-458edb6d-0039daf7-2688fc03-12374dcd-67b78a3b.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=fdd3 ldirty=0 rusn=410 fname=google-7c285f89-b9ffa01a-3ddb65cd-38d1326f-d899f032.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=e7e4 ldirty=0 rusn=411 fname=google-8141320d-9a96e1dc-06f9e4d7-a999f7db-e36624db.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c57f ldirty=0 rusn=412 fname=google-a69d2529-1b8d7766-68a10898-9287426c-e677cde9.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=099f ldirty=0 rusn=413 fname=google-ab2d47e7-616b7d75-41f8c63f-27ab0289-d4dba261.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=e8a5 ldirty=0 rusn=414 fname=google-b3f22184-a1db80b1-2f7cafdc-cc74ca02-5e30e0e8.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=0a89 ldirty=0 rusn=415 fname=google-c01520e3-a0cb3826-bca3622b-e0b4b328-e55ac982.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=5ca9 ldirty=0 rusn=416 fname=google-dc84560d-7db0900a-81939f47-59a12422-1ae39566.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=1b32 ldirty=0 rusn=417 fname=google-f8f3037b-124878ec-a63b0d64-fa951eb7-9bd104ac.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=50fc ldirty=0 rusn=418 fname=harrogate_lamp_post_range_2.2m_.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=f3dd ldirty=0 rusn=419 fname=hurry-man.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=9b66 ldirty=0 rusn=420 fname=images-9b66ee7c226c39726c6ceaf95b11a9af75fa588a.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=0146 ldirty=0 rusn=421 fname=quiz-will-you-land-the-job-311394419_shutterstock_840x420.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=9a7e ldirty=0 rusn=422 fname=r504044_2681020.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=090a ldirty=0 rusn=423 fname=troubled-teen.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=0a14 ldirty=0 rusn=424 fname=2054837.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=cd28 ldirty=0 rusn=425 fname=google-0e2c8423-6ad739bb-8465cbb1-797ec157-42a3b5c3.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=58f8 ldirty=0 rusn=426 fname=google-248852d4-f981e196-a562c21b-5e3af7e7-c3f80080.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=f975 ldirty=0 rusn=427 fname=google-2c7d5c05-4b43bc37-4d6ca6f8-7b8048cf-5c0939c0.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=2f18 ldirty=0 rusn=428 fname=google-31cc22f3-b70b86c4-4cc202c1-976d2690-9d77a91b.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=2cc7 ldirty=0 rusn=429 fname=google-94d4426a-5ca91990-fccf5e3c-f054b994-a070d12e.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=d01a ldirty=0 rusn=430 fname=google-b6c056fc-1ffeee37-c050a0eb-dd31425f-6ecbc748.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=fcc2 ldirty=0 rusn=431 fname=google-bad38653-f56a47b4-6620caac-4f665373-a1fde7a3.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=21ec ldirty=0 rusn=432 fname=google-bb993825-01b8041a-7ed117b1-ca6d57b9-e988180b.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=1710 ldirty=0 rusn=433 fname=google-e1a1ffd3-b360fba5-8c25c9ea-ab29a205-e04ea88d.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=8bfb ldirty=0 rusn=434 fname=google-feb51e71-63a66556-3f6b1bb5-06aa753a-a539d908.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=7346 ldirty=0 rusn=435 fname=iStock-512296986_1200.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4cd4 ldirty=0 rusn=436 fname=leader-surrounded-his-men-10125607.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=23e3 ldirty=0 rusn=437 fname=sneak-out.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c975 ldirty=0 rusn=438 fname=google-790664ee-9f9db9d8-b9026de3-f3ab4877-b4acd65c.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b83c ldirty=0 rusn=439 fname=google-86b8b294-be083195-ba54ae9e-40d61128-025d2729.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=0a0d ldirty=0 rusn=440 fname=paste-0a0d1e09a7ad0906115993dc883a8d657247ce3f.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=321b ldirty=0 rusn=441 fname=paste-321b980fa122e0df0f0a53f402e6a22bb290841c.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=5247 ldirty=0 rusn=442 fname=paste-5247b5a9829a904cc5ef5001697906a9e0427bab.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=7ec6 ldirty=0 rusn=443 fname=paste-7ec6c6cd543d623a763923fe9517314d78b2e243.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=8295 ldirty=0 rusn=444 fname=paste-8295343568c4345a3e61a798dbd7d47ff2cee7f6.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=aeff ldirty=0 rusn=445 fname=paste-aeff9b87ed3be01d1819ef239ff24c97dc7eb578.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c46a ldirty=0 rusn=446 fname=paste-c46a74b119dc07c49d1086d8131715c048becc0d.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=049e ldirty=0 rusn=447 fname=paste-049e63c6c387e4d94e9fd102ecf91e4bc3221d01.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=1b2f ldirty=0 rusn=448 fname=paste-1b2fa41cb21f22414ab96765ea9edd41d0fc6e1d.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=3bda ldirty=0 rusn=449 fname=paste-3bda64f1bfa71a66eee605e57b3a73b5aa1315ed.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=65e9 ldirty=0 rusn=450 fname=paste-65e951b3d84b3bc9d3f33cf17a40764d4c056ea2.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=6a2e ldirty=0 rusn=451 fname=paste-6a2e1a6ffa3585d93e117f04ff7ab8db7ede944c.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=727c ldirty=0 rusn=452 fname=paste-727c3ed8a25efc6ff45d99c6b13215f029150959.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b720 ldirty=0 rusn=453 fname=paste-b720091526025cc0f0741d62256ed930d0465a24.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=d364 ldirty=0 rusn=454 fname=paste-d36419b6ac0376033918c20c481ec9a259bb040c.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=eee7 ldirty=0 rusn=455 fname=paste-eee72b378d54cc956c9aa7d64d0ff76bfc19e511.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=f5bd ldirty=0 rusn=456 fname=paste-f5bdaf51a3c3947ca7b61e7accd80d25410b4cb1.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=bce4 ldirty=0 rusn=457 fname=driven.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=0301 ldirty=0 rusn=458 fname=google-8a698d7e-e7ec2059-1eec1fb2-deb7226a-6a7ddc7a.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b3b0 ldirty=0 rusn=459 fname=547596-ilustracoes-dees-de-icones-de-coracoes-gratis-vetor.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=504d ldirty=0 rusn=460 fname=FMukdWraQAMAuxa.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=0191 ldirty=0 rusn=461 fname=google-752ab06f-4617b53f-bbba04e1-205c566a-c42fc1b3.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4970 ldirty=0 rusn=462 fname=google-b707bcc1-47063c5c-57a5e055-5c1d744f-be4cc8c9.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=3346 ldirty=0 rusn=463 fname=ukel1363_-_6.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=68cd ldirty=0 rusn=464 fname=google-1a06ea4a-1a7bcc48-ece4d6a0-a456854a-3cc9ebc2.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=879a ldirty=0 rusn=465 fname=google-2991b072-89d07b51-f2f0cb29-39c7d130-8fbe20dd.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=5e0f ldirty=0 rusn=466 fname=google-54ef42dd-d2ceba1a-d6a23753-75973550-d25e21e6.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=112b ldirty=0 rusn=467 fname=google-c2468ae6-4adc3f38-c3205c7b-53d81c91-da9ede85.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=d069 ldirty=0 rusn=468 fname=google-e4dc334e-cc0120d3-e9f9bd56-edb2eb0b-52456091.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4b11 ldirty=0 rusn=469 fname=paste-4b111b59ca2c0cc91a925e5eef3ea88c1383ca98.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=08aa ldirty=0 rusn=470 fname=baseballbatguideheader-21-1000x550.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b90a ldirty=0 rusn=471 fname=google-1357db3d-e8514c8d-093d5c97-5340e9cf-20a349bf.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4d39 ldirty=0 rusn=472 fname=google-7f08e087-12868bd2-3347783f-5a879b42-6447417b.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=d793 ldirty=0 rusn=473 fname=google-b1586050-0731438a-c30999d1-86561bb5-edac830f.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=80d6 ldirty=0 rusn=474 fname=800px-Heart_corazón.svg.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=5748 ldirty=0 rusn=475 fname=google-792f5efb-e54f519c-28f256fd-ef92b9f9-99d28745.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=f6e0 ldirty=0 rusn=476 fname=google-aff78621-bb6afe32-68cebb08-ea48e2b0-8c60cdfc.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=03fc ldirty=0 rusn=477 fname=paste-03fc4ab48335209c71c96fc9ab103b3f412b3954.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=197a ldirty=0 rusn=478 fname=paste-197a18254cd11b5181ecf16b8734d480e5ceea91.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=8cdc ldirty=0 rusn=479 fname=paste-8cdc19f625e23111aee0499d3d9761d13e5bd75c.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=d3b8 ldirty=0 rusn=480 fname=paste-d3b86f9869c258f3c87b808fb6c23183dc29e25f.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=daff ldirty=0 rusn=481 fname=paste-daff6e46452c94457869bd3071d78cc8c7ebfe70.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=733d ldirty=0 rusn=482 fname=AI-stealing-my-job-blog.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=99c2 ldirty=0 rusn=483 fname=NEEDLE _0.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a617 ldirty=0 rusn=484 fname=Taken-Back-or-Taken-Aback-Which-One-to-Use-1024x478.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b8bc ldirty=0 rusn=485 fname=Untitled-design-2021-04-23T143237.068.png
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=dcf9 ldirty=0 rusn=486 fname=google-1637403e-f7f365f4-152018d4-ac0b24b7-97e9e80d.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=5eab ldirty=0 rusn=487 fname=google-1fc68e01-647c19b7-8e2c7299-872f0d30-e4105542.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=73a9 ldirty=0 rusn=488 fname=google-44c134c1-ca844445-0904e548-dbc1d4c3-f868ea20.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=3b7c ldirty=0 rusn=489 fname=google-52b80a70-75ffcbda-7ef64718-4582d34b-65eeaaf9.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4e66 ldirty=0 rusn=490 fname=google-6ad6af71-133e69c9-14f18c4a-5bef5fb6-469f8abf.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=222a ldirty=0 rusn=491 fname=google-6da5b862-22186006-fa983550-5a0bf03e-724f94ce.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=2613 ldirty=0 rusn=492 fname=google-6e5b4869-165ca7f6-5c420f4d-86307028-fd96b40c.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=7241 ldirty=0 rusn=493 fname=google-95d57a80-d7ff6b8f-e8c3cf00-6bbbf1f1-98fceedf.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b68f ldirty=0 rusn=494 fname=google-a1946630-4e128b51-06fa2e71-2ffd9768-176c2c93.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=0200 ldirty=0 rusn=495 fname=google-da739b0f-207de4ac-1ac0343e-fa390291-c32f1872.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=6803 ldirty=0 rusn=496 fname=google-e481f2f1-a9898264-e0e62816-bf8baccb-a667880a.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=f924 ldirty=0 rusn=497 fname=google-f644262b-9ae78b94-1244eedc-9de9e596-fea3f5af.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=59c7 ldirty=0 rusn=498 fname=google-fb666a8c-8008a6bf-bbd17cc3-89887374-adb1c374.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=ed58 ldirty=0 rusn=499 fname=insulin-syringe-syringes-1296x728-header.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=e151 ldirty=0 rusn=500 fname=nursing_tools-_new_grads.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=f5f5 ldirty=0 rusn=501 fname=paste-f5f506400f1e71e046aaefe932ffd6ed5e918282.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=006b ldirty=0 rusn=502 fname=photo-1629909613654-28e377c37b09.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=5d61 ldirty=0 rusn=503 fname=27mag-deprivation-superJumbo.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=e41d ldirty=0 rusn=504 fname=google-09a8ddf0-0d1fff80-573d26c4-74936f49-00e42fee.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=42b3 ldirty=0 rusn=505 fname=google-10ad2cc5-db05f916-374f56da-335bd41d-8b75c740.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=841c ldirty=0 rusn=506 fname=google-32b66364-8b0102aa-a846ce28-ff0d71fb-69c82f3d.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=149c ldirty=0 rusn=507 fname=google-4b327433-a4c1508c-f1d6da75-e5223096-f193c1c2.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=a3b8 ldirty=0 rusn=508 fname=google-8c258a04-e4bbdf39-a6e7896d-fdb4f0ab-4b2b596d.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=9244 ldirty=0 rusn=509 fname=google-c11b9a4e-12d98f9f-2cfaf93f-825b5105-6421f726.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4676 ldirty=0 rusn=510 fname=google-d27c735b-e175647a-82afa749-1ab4b95c-82d686d5.mp3
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=b0ba ldirty=0 rusn=511 fname=shocked-handsome-guy-expressing-surprise-grabbing-his-head-isolated-over-grey-wall-222631318.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=4a43 ldirty=0 rusn=512 fname=shutterstock_107212331.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=85c2 ldirty=0 rusn=513 fname=shutterstock_500593225_354026.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c453 ldirty=0 rusn=514 fname=stick-together_186444-50.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=995b ldirty=0 rusn=515 fname=web-exert-authority-697667340.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=123b ldirty=0 rusn=516 fname=paste-123ba30f56ae906e64131b2cc769267eeb416d29.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=3523 ldirty=0 rusn=517 fname=paste-35238d832492bf82ab3548d3ccb227eb3d42d303.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=880a ldirty=0 rusn=518 fname=paste-880a86407fe5a4a7118e5f31b154d50f5271ee96.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=c831 ldirty=0 rusn=519 fname=paste-c8310bc7a4b52c390b73b1fbebf80380cd28f0e7.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=cfb0 ldirty=0 rusn=520 fname=paste-cfb0e0d042bf246975733d7e30167970fa32de1f.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=e887 ldirty=0 rusn=521 fname=paste-e887ffa6c399a100026255fd8998d159e51833b7.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:sync(): check: lsum=None rsum=d42f ldirty=0 rusn=522 fname=paste-d42f822f8ba36ec28a21b2397e6cb384f18ccb34.jpg
+[1708728790] sync.py:sync(): will fetch
+[1708728790] sync.py:_downloadFiles(): 522 files to fetch
+[1708728790] sync.py:_downloadFiles(): fetch ['google-60f53ecc-b3de7fd1-6220f2d9-674271e2-c5313134.mp3', 'google-d6cc1c36-872fd867-5f9b077e-d2d39d5f-220faaf9.mp3', 'google-af1bfccf-39ebd376-57e406cc-5a1c9497-da163d82.mp3', 'google-71d07489-b76da3a6-52486864-d7489537-8bdd7186.mp3', 'google-e8b9a618-d2db9c27-4ecfabf0-69daf1fc-ff8cf158.mp3', 'google-60575c40-5b615d18-5953f398-daa2eb35-725a10a5.mp3', 'google-662606aa-2ff52378-0b18574e-52db2d1d-51fd7268.mp3', 'google-2a2b4e62-dd78a948-d9e05f50-ad381079-b18c2a38.mp3', 'google-7d933e81-069a7d55-7186a9ce-75a71fa6-b5c138c8.mp3', 'google-eea9eb94-adf83169-18d28fcb-69998253-d383034c.mp3', 'google-77e4fdd8-a8eac7b5-aa00b35a-10671c16-9e677afc.mp3', 'google-3ce05edd-104ad999-7b531cb8-0514f461-d6210861.mp3', 'google-79339340-2a524258-598f088c-b79345c3-33110448.mp3', 'google-b6d338c0-d6c3f17e-ce8e3f30-22b8a5bd-6c4d1cda.mp3', 'google-235adde4-08518840-2ff240bd-26e4436a-0b301753.mp3', 'google-27609207-e784ce30-8dab9163-8169f1ff-06c1c23a.mp3', 'google-0b3465c4-12f7c605-1ec0f262-9ffb770b-e6371351.mp3', 'google-040abed4-45d22589-243e2fd5-bdfcdfa3-efbe78ec.mp3', 'google-a0e3bf76-678da9e3-6442176b-9057f1b5-4b950e12.mp3', 'google-3a7054ab-13795204-d4c4c861-d1096c54-a0d8384d.mp3', 'google-42f84e34-c2d78b29-dc1541ae-514d9269-10dded41.mp3', 'google-7a691b80-084cc998-dc752904-a9ec5ae5-b059c9d6.mp3', 'google-d07f3846-df14b21c-db7f4230-2a8b16b7-0ba098ba.mp3', 'google-6d4613ed-be0cdead-6427c1f4-33e6e8b0-2f6e2bfa.mp3', 'google-b1e01b4c-cd9ad9ce-0cbdd60e-22d334bf-0ac05490.mp3']
+[1708728792] sync.py:_downloadFiles(): received 25 files
+[1708728792] sync.py:_downloadFiles(): fetch ['google-9959af2f-1a538c83-aa2e5efa-e4d9dfca-695f9a3b.mp3', 'google-56063aca-c1096149-2ef4bccb-c8f11802-e1efe501.mp3', 'google-015dc261-75e9bd2b-e1a879e3-29f8b6a4-753b23ea.mp3', 'google-75995a20-5fe4f082-ff02c7b6-04eff7af-1a138b05.mp3', 'google-825797ae-e0cc3de4-d10bca7f-44181f30-811e50fb.mp3', 'google-d138c424-a6571f75-2496a9d9-97475c35-6dad9de9.mp3', 'google-5af869ad-1ab9613c-b46308c0-48e3c669-c0f9eb8a.mp3', 'google-47e85c4f-a4fa4f68-daaa302a-4a9723a3-47506087.mp3', 'google-31a9353d-2098fb88-2eb6c5c9-3d844c7c-39a0bdb3.mp3', 'google-def01670-a9a67a80-8ffb421c-9ece535a-44df3ca4.mp3', 'google-04f68ea4-ec7eacb2-d13cf493-685fdb2b-65ddecc6.mp3', 'google-b3764c03-46459eb8-a46294b3-c4f6729f-7f42c6d1.mp3', 'google-92bcd324-55fe3b66-dbc0654c-25ac9b1d-bc2a1dde.mp3', 'google-5680402b-791ab4a1-2572982b-9c4db434-96886d43.mp3', 'google-24e0c058-a94a9624-2829984e-67f67b6e-e3db5687.mp3', 'google-a03d2d73-7ff3bb4b-147451c7-ca147730-8798a7d9.mp3', 'google-a38e1593-8aa662b9-2379f6f2-3dd43072-dd69e737.mp3', 'google-9776b678-baf3b383-c1b9ce1e-e1bd8db7-0d9476e8.mp3', 'google-aaf3a013-d583c789-0c5cb6e6-0a6617cc-b9122f2f.mp3', 'google-76576aba-d029d1d6-a1ab4058-043506bd-091bc724.mp3', 'google-5ca3fce4-157ce496-b71bc0ee-3323ec13-73ff35b2.mp3', 'google-993941ef-049fb2a0-34beb9f6-53d2b32f-44b0e1d1.mp3', 'google-71ef9217-b3aa3117-ba939495-001c2aff-f5793015.mp3', 'google-a48ecdd1-81c7face-65a4cf8d-fe862fed-74321195.mp3', 'google-320c3ee2-23178f88-27aea9dc-11b24088-d4418246.mp3']
+[1708728795] sync.py:_downloadFiles(): received 25 files
+[1708728795] sync.py:_downloadFiles(): fetch ['google-e5fca9d3-1525b869-f956ca87-2f9a00a3-44e1b471.mp3', 'google-984a5054-651f6330-8cadfe18-6c0c3737-6bf4c530.mp3', 'google-d1e60129-9e0e67fb-7018b650-9319e11a-64d23759.mp3', 'google-72510f23-7c40af23-3232982f-d8f53031-92f0b691.mp3', 'google-1e338ac3-dcdac865-d0ce34c4-6a7a0ed8-9a12899c.mp3', 'google-93cd6195-c88d4c52-1923ed9c-6a4b5518-43810786.mp3', 'google-8367ee88-2b12afc2-44bb99e4-2af1ce8a-9eaf1e23.mp3', 'google-b7e3367b-f9ac5068-2219d403-34a17fa1-2062feb5.mp3', 'google-73cd1bcd-a746cfb0-5b66c373-e9411140-a6ca485e.mp3', 'google-0427f26d-e6ad0b26-cff40120-9c47338b-e89adca6.mp3', 'paste-ae001d3a9a6707276dea30dc92e39d0d5d57ceb5.png', 'google-db53e936-45068855-80291856-8e2f6ad2-9c8204b5.mp3', 'google-d9586a9d-1d48c88d-b657f269-2d702481-f26ddee7.mp3', 'google-c4ce5372-01af9e76-79511a33-f9b9e752-40fcca24.mp3', 'google-d9c4e131-17548a37-b121294c-ed13541a-bf1abb21.mp3', 'google-3ca09a1e-592387c6-42d7d93b-f9d73ab7-4a65e021.mp3', 'google-ebda6c15-77298a27-50e1e784-3c4e23a3-e6204b93.mp3', 'google-e8901359-5a015566-5226a6b1-2b2aa9ef-8606dfcf.mp3', 'google-daaec37e-c6f2fe85-6aee626e-e7112b97-7d5dd24d.mp3', 'google-0fc122d1-338f1954-3f43c2e9-ec1edf89-350f288d.mp3', 'pronunc7886769099946579792.mp3', 'google-0d43669f-3e27c785-28df140d-2c8df1c3-b96e70e9.mp3', 'google-84a2a643-4fbab1aa-fea86d64-f6206ab0-8d33e436.mp3', 'google-d9b9d544-2a68c91b-cbaf1bd1-284ea36f-39021a4f.mp3', 'google-2000fddf-d8621bd6-c1a0de87-e6f59348-64e5acbe.mp3']
+[1708728796] sync.py:_downloadFiles(): received 25 files
+[1708728796] sync.py:_downloadFiles(): fetch ['google-97990e4c-afe9e7ea-5fc55d49-8b8173f7-1f95aae7.mp3', 'google-1c49b8a7-4451e7f2-cab024b3-20dff996-885ae52c.mp3', 'google-8ad229fe-6049d193-deadf374-d52d14fb-949b604a.mp3', 'google-9c87579a-82470690-9f7f7c68-4e01cd6d-594e8531.mp3', 'google-6812399a-b9459de7-3964d964-a86b2751-4ec358f0.mp3', 'google-231b0832-11225113-6d59ec57-fc2ba919-e0a18865.mp3', 'google-58110091-33179020-9d2bc867-bd44112a-e4597b33.mp3', 'google-741cdb97-c3b340c3-7a155b31-e78a3239-b5c9d545.mp3', 'google-389ecf63-816a3d98-0e396b59-fb44c07e-42664275.mp3', 'google-dd59b4f0-762380c6-3cd7e85d-70a9cb49-ce5f0921.mp3', 'google-ce70902d-81824428-30d9856b-e117d6c4-0dac34e5.mp3', 'google-436f1ee8-3dcb0bdd-c91f14f3-e8e2baa1-3a119325.mp3', 'google-68b8853f-cb6d6a2c-2c6f3b6d-82ab55a1-d6b89288.mp3', 'google-3cf065b7-6f5689cf-7d8d1597-087a9872-5c65e3c5.mp3', 'google-7fe7f137-6a68247a-04371508-0f5e674a-96120e99.mp3', 'google-ed49c608-dcf05ba3-ffbef71f-abb0416e-972dc082.mp3', 'google-171d7804-a1239889-9fc0f746-f0d92c68-c9959b5c.mp3', 'google-880c13b0-a3d21864-f3bb16a7-320ef612-4619a8fc.mp3', 'google-1955c0f3-21c094da-344a5ec9-8f876afb-cd073dfb.mp3', 'google-1d139bcc-b77a7321-179d64b9-f19037ee-8c6583d3.mp3', 'google-2c2fc693-25b71b7e-aed9eb81-b39e1e41-9e17004a.mp3', 'google-49e864e5-7723c9a6-106d67de-9c1b0f17-5d0d8824.mp3', 'google-513265a4-8fcc7a2d-7cbe311b-895b2cce-73671c8f.mp3', 'google-5587b10e-30bb0732-f31a11d1-62d06900-689deebe.mp3', 'google-5c258a40-00ed6807-17d3b1a4-eaed8faf-7cfae15f.mp3']
+[1708728797] sync.py:_downloadFiles(): received 25 files
+[1708728797] sync.py:_downloadFiles(): fetch ['google-66dc2c7b-0cccca0f-658f9b3d-52369c35-60477c06.mp3', 'google-6faf0a4d-fe52b4a4-f1933426-42949a87-5dcab1e0.mp3', 'google-705178d4-123310ac-742b1266-06ba0099-65669d27.mp3', 'google-7208f108-e42963a6-62f37d37-0cc9372a-6d2130b3.mp3', 'google-815fc2c0-7ba8b14a-5b448068-f86c9cb0-294952fe.mp3', 'google-91221d4d-9cd50067-d77b819a-7aa32904-14e39d38.mp3', 'google-9afc4d4a-57fa5637-65871de6-e2ed80c0-0b4491ec.mp3', 'google-9e9c9ea1-49b6a7e0-2ce11f48-a74f96f6-1940f78b.mp3', 'google-a9d64bd2-fa6bcc68-412a6479-fc39d5e6-6f4b9cc2.mp3', 'google-bd6d09fd-b430ad2e-9cf99b6b-306b0792-440e47f6.mp3', 'google-bdd30281-f55367d6-e090d3e6-cd521b4b-39410dad.mp3', 'google-c242b78c-b97af087-866c98ad-61afbb41-31a33094.mp3', 'google-c2d2e474-cdfee973-f745368e-bf464fea-2791efae.mp3', 'google-d556636b-384ee64d-5ebab3a4-6ea3068b-acea8fbb.mp3', 'google-bf1dace4-1c330d65-ea1b080f-fd849c23-e459776c.mp3', 'google-ca742501-a7e9e33e-85ec3d97-981ebcd9-fdbaca2f.mp3', 'google-49cb2003-d78866ea-5fc032be-01f20a54-27c54df2.mp3', 'google-7ad53e7b-3229abb3-363dd723-816abeec-1b009697.mp3', 'google-9fe5a472-ca36f306-f031a8f5-7fd35202-1d201813.mp3', 'google-05606947-191daa09-d947ab70-bea10910-2a346f98.mp3', 'google-077dab4c-81819394-16443f11-0db6ca12-04038d97.mp3', 'google-5633a1ef-05e72cea-8889b3d1-b380a770-805e6a59.mp3', 'google-56b84a6c-4517f522-29600bd7-d6528710-a0b80ba4.mp3', 'google-8646eb34-cda5d9d3-3b8fed91-1198f2d9-244c3593.mp3', 'google-87eccbf7-e53269f8-296f9b4c-a75cac61-a233b0cb.mp3']
+[1708728799] sync.py:_downloadFiles(): received 25 files
+[1708728799] sync.py:_downloadFiles(): fetch ['google-9ec43823-59bb1cf5-ea18209a-ebde5d61-5a5191d7.mp3', 'google-ebf605d7-414c9841-fd618c50-b592f3b1-69a79584.mp3', 'google-179afc8b-30a9eef4-b2ead844-3557e781-a11f8e7a.mp3', 'google-272f8fd4-f7e5ddf7-fca2c40d-183210af-4c8b8334.mp3', 'google-45a53a99-848e82eb-7c7e2bb0-33634898-9b37612c.mp3', 'google-49c97884-660e30a9-ae8792ae-434c07ff-a984e258.mp3', 'google-54b451a1-695659f7-4a65c8a9-f4825823-d90b3711.mp3', 'google-606a018e-6a919945-cc9f3f78-4e74bd6a-065670fd.mp3', 'google-8aad7345-121e0448-842d418f-f5d344eb-0b46b0e8.mp3', 'google-8be26692-3d4fc23e-1dc4cf25-7dad0450-a8dee8bc.mp3', 'google-a6724218-e566541a-2c7f3ecd-3cacb49e-59b7d1cc.mp3', 'google-c66ecab4-a739f1fb-1521492a-53614ded-39afb971.mp3', 'google-dcb66252-ac6796b6-99b60623-11d25c6d-533bfae6.mp3', 'google-e693a088-d13b93bc-dfa42379-e8a15858-38d13514.mp3', 'Capture2.JPG', 'Untitled-1.jpg', 'paste-8ecba01c03f781299baa46244db7361f661126a4.jpg', 'young-woman-walking-down-city-stairs-drinking-coffee_1262-19097.jpg', '01.png', '02.png', '03.png', '04-2f12f0e99b83f032fa6574412b8998a78103cb27.png', '04.png', '05.png', '06.png']
+[1708728801] sync.py:_downloadFiles(): received 25 files
+[1708728801] sync.py:_downloadFiles(): fetch ['07.png', '08.png', '09.png', '10.png', '11.png', '12.png', '13.png', '14.png', '15.png', '16.png', '17.png', '18.png', '19.png', '20.png', '21.png', '22.png', '23.png', '24.png', '25.png', 'paste-c13bc48f5fc82967333ba0dcf5b8f1729545eeda.jpg', 'paste-c047e14da36fd16790765c22ad62a45dac8fb060.png', 'v4-460px-Be-Aloof-Step-1-Version-5.jpg.webp', 'google-0f76e5d5-3a0f1560-4a92359d-be7088c7-b4ec1b47.mp3', 'google-e021d52a-e5481608-158cbaa7-7c1925da-957b7376.mp3', '1.jpg']
+[1708728805] sync.py:_downloadFiles(): received 25 files
+[1708728805] sync.py:_downloadFiles(): fetch ['1626355400_222349_url.jpeg', '20-Everyday-x-Every-day-2BLOG.jpg', '2a898ad890159ad48e0c3da71b3d3aa8.jpg', '41YGQc2AAiL.jpg', 'HTB1vXgYf.3IL1JjSZFMq6yjrFXav.jpg_.webp', 'WhiteTShirt.png', 'd1kk4hv-4cce8d4c-7564-4b7a-a61d-8b28c5164a8d.jpg', 'diff.jpg', 'fashion.jpg', 'ferias-1.jpg', 'google-56a61624-d5560ddb-3855819e-5fc94171-4978174d.mp3', 'google-600074f6-33a837c2-b87634b4-e8e86517-f6bd4671.mp3', 'google-69be4fca-528eb793-469ed799-d2a1d6ea-ed4cb99c.mp3', 'google-9207ad74-30a0dbdc-e3863c8f-b51e5230-7f11c361.mp3', 'google-986d7d13-97c268af-60995b6b-d89aaa9d-2d47e3c7.mp3', 'google-a7591f88-f7f36e4d-64958b6f-347b1cbd-5909c0a3.mp3', 'google-b219965e-251d4f6c-e1e5e22f-d0072925-45c6cf02.mp3', 'google-c445a355-c7f4ae33-3a860e0f-a25b4dd6-88012571.mp3', 'google-d23b0e2a-c9e88f13-e5b6b0fa-ccfe5ebe-9bde0bb6.mp3', 'google-defb4c45-749fcb85-55cde97c-0e407bf6-ebf44053.mp3', 'google-e16e82c3-a6c9e3ba-7d2d91a7-83841728-5addb804.mp3', 'google-f2307b58-8b3986ba-33d4383f-cb96cc3a-b6a23809.mp3', 'google-f95eeefc-6f81b57b-810e7c45-53c3d405-5d41f13a.mp3', 'gradual.jpg', 'i-am-getting-used-to-it.png']
+[1708728806] sync.py:_downloadFiles(): received 25 files
+[1708728806] sync.py:_downloadFiles(): fetch ['images.jpg', 'moletom-adidas-tf-om-hoody-4128d6739b59096e52b7c53e2e907a7d.jpg', 'paste-ff75835ec115c1b95d36004321ab0893049c77ab.jpg', 'position-of-neptune.jpg', '(26)-r.png', '26.png', '27-r.png', '27.png', '28-r.png', '28.png', '29-r.png', '29.png', '30-r.png', '30.png', '31-r.png', '31.png', '32-r.png', '32.png', '33-r.png', '33.png', '34-r.png', '34.png', '35-r.png', '35.png', '36-r.png']
+[1708728808] sync.py:_downloadFiles(): received 25 files
+[1708728808] sync.py:_downloadFiles(): fetch ['36.png', '37-r.png', '37.png', '38-r.png', '38.png', '39-r.png', '39.png', '40-r.png', '40.png', '41-r.png', '41.png', 'paste-d31153ccce202043146c2848c20152bb158bc1f3.jpg', '1001725.jpg', '745759.png', '998446.jpg', 'google-0587df46-1e774e36-5b1354fa-31ea0ef1-76de0ac8.mp3', 'google-02649d38-17382527-77e2f33f-2f67b2e3-d7d85f29.mp3', '43.png', '44.png', '45.png', '46.png', '47.png', '48.png', '49.png', 'google-0a405da5-0b6555c2-3c378efc-eaf1e862-0b4861bd.mp3']
+[1708728809] sync.py:_downloadFiles(): received 19 files
+[1708728809] sync.py:_downloadFiles(): fetch ['45.png', '46.png', '47.png', '48.png', '49.png', 'google-0a405da5-0b6555c2-3c378efc-eaf1e862-0b4861bd.mp3', 'paste-57a76687dab918a0b4915d063a259a4c23d2ab5c.jpg', 'google-068012cf-b81197a1-fa4e28e2-507c7239-7a1b223a.mp3', 'google-15e9a250-c40effa5-689db4aa-7b76d555-96ccdd72.mp3', 'google-5bcaa470-ffa1ec3d-49cc7734-7790db14-c4e3e1e7.mp3', 'google-5c6001a6-f19a869c-a38c638b-33d8efff-af7c9f0c.mp3', 'google-5f37b366-c396a659-7fb6127a-d0c508a3-a48415c7.mp3', 'google-9cfad2eb-bc3c3897-d68e86ea-99c435eb-2b156d5e.mp3', 'google-a562890f-f536515b-2fa0fddd-0bb16ee4-032d91ce.mp3', 'google-ad64c000-f3442dc4-2776c7aa-34725bc8-e593977a.mp3', 'google-b10e3223-06ce31ca-bc4e3ed1-a6a8be1a-003944f6.mp3', 'google-bd4c027e-f2a976fe-7afa12de-0b446649-60544f97.mp3', 'google-d137bab4-bd0ea184-13105ad4-0f648501-e8b2665b.mp3', 'google-d2e6dddc-85c2a278-6457f7d5-936dd90f-f0e9a756.mp3', 'paste-077ff2bda21c2e66398250817256691354549916.jpg', 'paste-5ea2fb91968824db5bca9266b4955f16ddda8f65.jpg', 'paste-a87379d1f763188e0779e22f0acc753af221d468.jpg', 'paste-bfa8e25d80361cb6735e6a25a1a9b38effb6baae.jpg', 'paste-c0183012ed0ee47b58e539b5344bd9c5b9c91ba1.jpg', 'paste-c1ddcf0fe738637caccbc3afe5dfac015a7f7276.jpg']
+[1708728812] sync.py:_downloadFiles(): received 25 files
+[1708728812] sync.py:_downloadFiles(): fetch ['paste-c63971a6e2bd64cc078c99e445a831028b28f4af.jpg', 'paste-f1a5d00543761155cad5c0c6fd73b81f2bb4f3c2.jpg', 'google-31d3ee46-429e66a7-0134161d-21be8401-6c6f5c27.mp3', 'google-0c6d93aa-ab82f649-c92c6ee6-a318c95a-dba2b49a.mp3', 'google-2f273324-8424138f-1b69b7c9-d48d5a3e-41bdb07c.mp3', 'google-3a4ddeea-6ec8c20b-a33820ba-85da7691-03d1dbc7.mp3', 'google-3bcbd8ce-c3fd91b4-c135441e-952a37b9-fa9228ef.mp3', 'google-4fcc0e80-d117ebb2-a351136f-023e8e08-155a1748.mp3', 'google-861a86ea-316edc93-befee567-1cb1f0cb-c7ca1261.mp3', 'google-898bc181-02e8f4ac-34e7d8fa-1a815c2a-da3a8d74.mp3', 'google-a161e09f-dde52b75-ee6235df-c6605617-0f1a93c2.mp3', 'google-b6e0514f-1717bad6-7127f9c4-b9cfc8a5-f7810070.mp3', 'google-d54b5a77-560741f7-3b56ad65-55dee4e3-effef7d9.mp3', 'google-d587d756-7527fa39-a98cf445-7209a5de-8ebcfcf9.mp3', 'google-f1ba0d35-5143a431-50ac71c4-183cb399-aff7f169.mp3', 'paste-22bb22d51c8679a16b3e27c20cdb588c97f78ff5.jpg', 'paste-350b771c4ff02c0b7e62adc9af70f3e2e146b2ca.jpg', 'paste-38a17661991b989f244dbc2026f06f9214ead7c0.jpg', 'paste-566455e895bf33c82446b173cbce28d421d63bb9.jpg', 'paste-8bf01851860af6859eb7c8c9aeb55743e9f8d126.jpg', 'paste-a3fd5364b54378536d8e5888967c57fb77c52522.jpg', 'paste-aa0a30432aaf5c4def279b169fb4311e1a0749f8.jpg', 'paste-ab6ae6b9fd65f0e5bc3738fca855fa423bbd8c13.jpg', 'paste-dd92e945c3efafc2d0a79902b83e78b21905456e.jpg', 'paste-e441f65d49e217646e3c065a7d740637fdd0bc19.jpg']
+[1708728814] sync.py:_downloadFiles(): received 25 files
+[1708728814] sync.py:_downloadFiles(): fetch ['paste-0b5ea6d7419aeb9c6d6a01e0b1dbe24268cfa99e.jpg', 'paste-1ab7184ab6c8aa398c6444ca7210793e4d8d4cb5.jpg', 'paste-2faf5ff39f18cd29939076ecb840ef54308f2322.jpg', 'paste-53bab67d5568525061972e9f9a0fd048a8c5b9de.jpg', 'paste-9184dc7ac8468ba8410e0a6bdca6e70c1f360316.jpg', 'paste-91cf1c1cab80a10db6c5e589fcc7555753b13e1c.jpg', 'paste-b8b8de2858405a38ff6c0eebf089a8032e070cfe.jpg', 'google-22b1d097-50496c83-0fbc57dd-57f1c2c7-50ed43b0.mp3', 'google-3fce03b2-428e1493-6c443e23-409d9ec0-a8d371b8.mp3', 'google-58c060c8-636feeda-1e3659eb-ea8bd96e-e18f2803.mp3', 'google-afcbe1b5-9cf6e33a-4959ae1c-575ba1e9-c240da12.mp3', 'google-bcc59185-15ffd9a1-da484184-acf1754d-e1b53b00.mp3', 'paste-99facfc5ba55a3fd5837382b430e18cdd6d7ca41.jpg', 'google-106d77be-f6056926-ba97d87e-d6ae1ccf-8b298deb.mp3', 'google-10dc5367-20a78ef2-207be8fe-437a068d-06e8ff62.mp3', 'google-3de97e4e-ec82d2b4-c240f3b2-db0e19c2-bdbde6a5.mp3', 'google-3e698585-a002dde2-a54fae31-8f981192-5d76839e.mp3', 'google-68cf15b1-44bf5499-fa9ccb24-f2e59cbc-86d56254.mp3', 'google-7db985be-00fd4617-07667f7a-0f648148-be1496d8.mp3', 'google-8d82c3d2-0dce690d-c1a850ed-f8e98456-417051cd.mp3', 'google-f14277d3-42b87d31-212831d9-daeb44b3-687ffae9.mp3', 'paste-319ec7e81f9c3b59702c369db79f59e1c99e339f.jpg', 'paste-343df3a27d5727686db708ccf4f0c24f8fed8504.jpg', 'paste-96effd4b02fe25737876cd789e3decd970d13d5f.jpg', 'paste-a5cd0bec6c7ea92b360bd98921f06e942b7ac049.jpg']
+[1708728816] sync.py:_downloadFiles(): received 25 files
+[1708728816] sync.py:_downloadFiles(): fetch ['paste-e19a4355aed286bab7b1328d5a8fe4316325838a.jpg', 'paste-f2d0603c9d520522ce0ac9e339931216e03adcbb.jpg', 'paste-f996b2fe1c9b0de9075d3cf4076e730b0072f79c.jpg', 'algoritmo.jpg', '838781198928f3124e11.png', 'paste-1b0ddf6e0f0294889d6e168a98f34b4831d4ccb8.jpg', 'paste-f9eb716beb2441142c1cc4f567203d969a1c55ae.jpg', 'paste-85d80f512705cfa372bd07731ccb5b0a416cb93d.jpg', 'Boat+Made+of+Money.jpg', 'Gosford-messmate-timber-dining-table-1800-front-on-02__00409.1614728072.jpg', 'google-46d217e7-8a7e2f2d-a4f1acef-5e31be49-772f1aa3.mp3', 'google-8848cfdd-459ca533-b6053c4e-27cfabd7-c0620110.mp3', 'google-d0bdc79c-907bbe25-021c719f-751440de-cef07941.mp3', 'sky-x-heaven.jpg', '32-329675_be-memorable-and-youll-always-have-agents-waiting-run-into-phrasal-verb.png', '82b07dd0cef6e7f35ee8a7fb0c3dec5b.jpg', 'Cruise-ships-1.png', 'Screen-Shot-2020-03-12-at-2.09.14-PM-539x500.png', 'adult-sleepover-ideas.jpg', 'fb-bigstock-Bearded-Business-Man-With-Spee-357187766.jpg', 'google-197ba6e4-1aa42d68-c33d5692-38ba5cf8-521a97c7.mp3', 'google-26067fae-1445c7df-ec810b64-383b1ef3-d84efd42.mp3', 'google-2629b073-5c2efc81-feaff1fb-fb4f2436-bdbed038.mp3', 'google-4f5ca963-a6b5c294-b9ae9758-f03a667e-98e2bf32.mp3', 'google-6b0d0d97-fa5a34b7-20174fa4-fedd6ebc-042a4761.mp3']
+[1708728817] sync.py:_downloadFiles(): received 25 files
+[1708728817] sync.py:_downloadFiles(): fetch ['google-783ebf09-64f95781-4fb9f267-cb9073d3-5ad9100f.mp3', 'google-a277b959-62414ae1-eff46e45-dcead199-ae5aaba6.mp3', 'google-d3048832-7e50f4e2-026d60e0-ad442f8f-c6b84f13.mp3', 'google-e334138d-1aaa876d-c3bf635a-6124e1b1-f7840bca.mp3', 'google-fb7370f7-da45ef02-450e97ad-1211b0ff-1aee70e0.mp3', 'por-do-sol-no-cais-de-madeira-ou-cais-no-mar-com-barco-e-casal_212328-849.jpg', 'v4-460px-Show-Affection-to-Someone-Who-Needs-It-Step-1-Version-2.jpg.webp', 'young-man-with-heavily-tattooed-body-smiling.jpg', 'paste-a619157f2a60ffa04c54f38e581370f67404e40c.jpg', 'blusa-digby-hoody-preta-triumph-sku-msws21015.jpg', 'sapi5js-0a2fe35b-681cb16f-df2c1938-20c8a20a-2c4e62fe.mp3', 'sapi5js-2b93921e-38539b06-3abb9b33-fa63fa9b-45d3532f.mp3', 'sapi5js-624d2a2b-6b78241a-d2081a80-0f76155a-ccf5aef8.mp3', 'sapi5js-bcc67de0-2f781e4b-466e5d21-7c5d739a-4b639c3c.mp3', 'sapi5js-bea9fe82-ab212a90-7794eb4e-e46c751f-643f04c0.mp3', '14l1DUdx4WEk-79ysJ7Utvg.png', '1rwBTtRp1PooCqHx3ignjbQ.jpeg', '57a4edbc2a0000fa01fb5027.jpeg', 'a4b768922fdde50616b042d1b136fc2564ef083e_original.jpeg', 'angry-young-woman-having-bad-260nw-712179856.jpg', 'google-1ccd8f94-cf1b54d9-4d989f04-31c1dc76-73826816.mp3', 'google-20c5406a-a20e36ee-66513c99-9682581a-386519fe.mp3', 'google-5e0f3551-b3a6a506-6e134b77-309669a9-fd364ccf.mp3', 'google-75bf0603-7e8b9ebc-5bda37fc-d330fd52-1e3036e9.mp3', 'google-8a4ec467-fffef3ff-e8cd6bbd-453d6cf8-78f318e5.mp3']
+[1708728819] sync.py:_downloadFiles(): received 18 files
+[1708728819] sync.py:_downloadFiles(): fetch ['a4b768922fdde50616b042d1b136fc2564ef083e_original.jpeg', 'angry-young-woman-having-bad-260nw-712179856.jpg', 'google-1ccd8f94-cf1b54d9-4d989f04-31c1dc76-73826816.mp3', 'google-20c5406a-a20e36ee-66513c99-9682581a-386519fe.mp3', 'google-5e0f3551-b3a6a506-6e134b77-309669a9-fd364ccf.mp3', 'google-75bf0603-7e8b9ebc-5bda37fc-d330fd52-1e3036e9.mp3', 'google-8a4ec467-fffef3ff-e8cd6bbd-453d6cf8-78f318e5.mp3', 'google-96e6b432-eac66f28-f73651a3-7c54ecdf-3a5e3f09.mp3', 'google-97274b9d-3369712d-df115929-9072492d-1cd6602c.mp3', 'google-99998365-e6bf4e9b-d60337f6-8b81067d-090faf07.mp3', 'google-ac916582-8fd3e8d2-34f9f523-5ac1e5ef-677f1eaf.mp3', 'google-acffae3e-15384c1f-0f3099fc-3c39f922-ff7a1859.mp3', 'google-ada6b16a-86c81d60-cd745e0d-c31b7a0d-4b686a6c.mp3', 'google-e02e4674-4c4471d9-38c3b09e-256025e6-11999f3e.mp3', 'google-e0ab78da-5e73103c-86eb4421-029b2f4f-576093e1.mp3', 'google-f54d093e-3b11383d-6b59cd2f-c0dd7598-0248b5d1.mp3', 'images-5c99f73c6d7573e53aa55f5969b29c426d3a3005.jpg', 'paste.jpg', 'polished-concrete-1.jpg', 'sapi5js-b23e80c0-229be5d0-e4e928af-fa85576b-070fd5d4.mp3', 'sparkling-jewelry-7308898.jpg', '61ypvjDvj3L._AC_SL1500_.jpg', 'C5CB2927-D358-4AF4-92B5-0E2AF7DFA944.jpeg', 'Dry-Clean-Vs.jpg', 'confused-guy-does-not-know-260nw-664670398.jpg']
+[1708728821] sync.py:_downloadFiles(): received 25 files
+[1708728821] sync.py:_downloadFiles(): fetch ['ghi-colognes-men-1673021248.png', 'google-0ed32078-f16b0772-7876ba51-e9fadf6c-b5b0ca9a.mp3', 'google-206deab8-24fdbe9d-1880ba42-dead525b-3d5bac28.mp3', 'google-378470be-b5662929-c2f81ebd-2cc0cb38-98aedbd6.mp3', 'google-4b8ffde9-eaac7e37-07bb92a6-ee92a176-227ac562.mp3', 'google-53bc8081-2abbdec8-7b6e5ad7-3bce8340-98fb85c2.mp3', 'google-815dde81-0511fddf-b07236f1-f4e7acdf-fb9fca06.mp3', 'google-86e41d56-4d91b9e0-2efee35d-4a23c81c-19af4f50.mp3', 'google-9dde0b05-6ee45082-74c32894-1cf7ea88-443acb0b.mp3', 'google-abe14d9e-dd7d75dd-9e39b9c6-a089f587-c768c29a.mp3', 'google-b060c057-363afe15-6b693774-c44793d4-ab0fe131.mp3', 'google-b74d1bf2-0fd6c9aa-d97c65f5-03d2a326-226c9697.mp3', 'google-fc43313a-ae18d0a1-41109588-fd7d974e-92770a9a.mp3', 'isolated-illustration-man-pushing-empty-grocery-cart-hurriedly-fast-male-shopper-silhouette-121106819.jpg', 'pretty-florist-posing-with-bouquet_23-2147762236.jpg', 'trench_1200x.png', 'google-22213f5f-9b85e8b7-677ddde5-e2d1cc5f-0dbc2f64.mp3', 'google-237b34f2-ab1cac25-c1fd059f-27268742-15589552.mp3', 'google-2455583a-857377af-1e76defd-f9dc2c86-8e0444d1.mp3', 'google-2b476865-fc8a9555-b7202fe2-e63988b1-a3cc67e5.mp3', 'google-428e0b41-af119cf9-e334d9fa-731cacab-5d2661cd.mp3', 'google-458edb6d-0039daf7-2688fc03-12374dcd-67b78a3b.mp3', 'google-7c285f89-b9ffa01a-3ddb65cd-38d1326f-d899f032.mp3', 'google-8141320d-9a96e1dc-06f9e4d7-a999f7db-e36624db.mp3', 'google-a69d2529-1b8d7766-68a10898-9287426c-e677cde9.mp3']
+[1708728822] sync.py:_downloadFiles(): received 1 files
+[1708728822] sync.py:_downloadFiles(): fetch ['google-0ed32078-f16b0772-7876ba51-e9fadf6c-b5b0ca9a.mp3', 'google-206deab8-24fdbe9d-1880ba42-dead525b-3d5bac28.mp3', 'google-378470be-b5662929-c2f81ebd-2cc0cb38-98aedbd6.mp3', 'google-4b8ffde9-eaac7e37-07bb92a6-ee92a176-227ac562.mp3', 'google-53bc8081-2abbdec8-7b6e5ad7-3bce8340-98fb85c2.mp3', 'google-815dde81-0511fddf-b07236f1-f4e7acdf-fb9fca06.mp3', 'google-86e41d56-4d91b9e0-2efee35d-4a23c81c-19af4f50.mp3', 'google-9dde0b05-6ee45082-74c32894-1cf7ea88-443acb0b.mp3', 'google-abe14d9e-dd7d75dd-9e39b9c6-a089f587-c768c29a.mp3', 'google-b060c057-363afe15-6b693774-c44793d4-ab0fe131.mp3', 'google-b74d1bf2-0fd6c9aa-d97c65f5-03d2a326-226c9697.mp3', 'google-fc43313a-ae18d0a1-41109588-fd7d974e-92770a9a.mp3', 'isolated-illustration-man-pushing-empty-grocery-cart-hurriedly-fast-male-shopper-silhouette-121106819.jpg', 'pretty-florist-posing-with-bouquet_23-2147762236.jpg', 'trench_1200x.png', 'google-22213f5f-9b85e8b7-677ddde5-e2d1cc5f-0dbc2f64.mp3', 'google-237b34f2-ab1cac25-c1fd059f-27268742-15589552.mp3', 'google-2455583a-857377af-1e76defd-f9dc2c86-8e0444d1.mp3', 'google-2b476865-fc8a9555-b7202fe2-e63988b1-a3cc67e5.mp3', 'google-428e0b41-af119cf9-e334d9fa-731cacab-5d2661cd.mp3', 'google-458edb6d-0039daf7-2688fc03-12374dcd-67b78a3b.mp3', 'google-7c285f89-b9ffa01a-3ddb65cd-38d1326f-d899f032.mp3', 'google-8141320d-9a96e1dc-06f9e4d7-a999f7db-e36624db.mp3', 'google-a69d2529-1b8d7766-68a10898-9287426c-e677cde9.mp3', 'google-ab2d47e7-616b7d75-41f8c63f-27ab0289-d4dba261.mp3']
+[1708728824] sync.py:_downloadFiles(): received 25 files
+[1708728824] sync.py:_downloadFiles(): fetch ['google-b3f22184-a1db80b1-2f7cafdc-cc74ca02-5e30e0e8.mp3', 'google-c01520e3-a0cb3826-bca3622b-e0b4b328-e55ac982.mp3', 'google-dc84560d-7db0900a-81939f47-59a12422-1ae39566.mp3', 'google-f8f3037b-124878ec-a63b0d64-fa951eb7-9bd104ac.mp3', 'harrogate_lamp_post_range_2.2m_.jpg', 'hurry-man.jpg', 'images-9b66ee7c226c39726c6ceaf95b11a9af75fa588a.jpg', 'quiz-will-you-land-the-job-311394419_shutterstock_840x420.jpg', 'r504044_2681020.jpg', 'troubled-teen.jpg', '2054837.jpg', 'google-0e2c8423-6ad739bb-8465cbb1-797ec157-42a3b5c3.mp3', 'google-248852d4-f981e196-a562c21b-5e3af7e7-c3f80080.mp3', 'google-2c7d5c05-4b43bc37-4d6ca6f8-7b8048cf-5c0939c0.mp3', 'google-31cc22f3-b70b86c4-4cc202c1-976d2690-9d77a91b.mp3', 'google-94d4426a-5ca91990-fccf5e3c-f054b994-a070d12e.mp3', 'google-b6c056fc-1ffeee37-c050a0eb-dd31425f-6ecbc748.mp3', 'google-bad38653-f56a47b4-6620caac-4f665373-a1fde7a3.mp3', 'google-bb993825-01b8041a-7ed117b1-ca6d57b9-e988180b.mp3', 'google-e1a1ffd3-b360fba5-8c25c9ea-ab29a205-e04ea88d.mp3', 'google-feb51e71-63a66556-3f6b1bb5-06aa753a-a539d908.mp3', 'iStock-512296986_1200.jpg', 'leader-surrounded-his-men-10125607.jpg', 'sneak-out.jpg', 'google-790664ee-9f9db9d8-b9026de3-f3ab4877-b4acd65c.mp3']
+[1708728825] sync.py:_downloadFiles(): received 25 files
+[1708728825] sync.py:_downloadFiles(): fetch ['google-86b8b294-be083195-ba54ae9e-40d61128-025d2729.mp3', 'paste-0a0d1e09a7ad0906115993dc883a8d657247ce3f.jpg', 'paste-321b980fa122e0df0f0a53f402e6a22bb290841c.jpg', 'paste-5247b5a9829a904cc5ef5001697906a9e0427bab.jpg', 'paste-7ec6c6cd543d623a763923fe9517314d78b2e243.jpg', 'paste-8295343568c4345a3e61a798dbd7d47ff2cee7f6.jpg', 'paste-aeff9b87ed3be01d1819ef239ff24c97dc7eb578.jpg', 'paste-c46a74b119dc07c49d1086d8131715c048becc0d.jpg', 'paste-049e63c6c387e4d94e9fd102ecf91e4bc3221d01.jpg', 'paste-1b2fa41cb21f22414ab96765ea9edd41d0fc6e1d.jpg', 'paste-3bda64f1bfa71a66eee605e57b3a73b5aa1315ed.jpg', 'paste-65e951b3d84b3bc9d3f33cf17a40764d4c056ea2.jpg', 'paste-6a2e1a6ffa3585d93e117f04ff7ab8db7ede944c.jpg', 'paste-727c3ed8a25efc6ff45d99c6b13215f029150959.jpg', 'paste-b720091526025cc0f0741d62256ed930d0465a24.jpg', 'paste-d36419b6ac0376033918c20c481ec9a259bb040c.jpg', 'paste-eee72b378d54cc956c9aa7d64d0ff76bfc19e511.jpg', 'paste-f5bdaf51a3c3947ca7b61e7accd80d25410b4cb1.jpg', 'driven.png', 'google-8a698d7e-e7ec2059-1eec1fb2-deb7226a-6a7ddc7a.mp3', '547596-ilustracoes-dees-de-icones-de-coracoes-gratis-vetor.jpg', 'FMukdWraQAMAuxa.jpg', 'google-752ab06f-4617b53f-bbba04e1-205c566a-c42fc1b3.mp3', 'google-b707bcc1-47063c5c-57a5e055-5c1d744f-be4cc8c9.mp3', 'ukel1363_-_6.jpg']
+[1708728826] sync.py:_downloadFiles(): received 25 files
+[1708728826] sync.py:_downloadFiles(): fetch ['google-1a06ea4a-1a7bcc48-ece4d6a0-a456854a-3cc9ebc2.mp3', 'google-2991b072-89d07b51-f2f0cb29-39c7d130-8fbe20dd.mp3', 'google-54ef42dd-d2ceba1a-d6a23753-75973550-d25e21e6.mp3', 'google-c2468ae6-4adc3f38-c3205c7b-53d81c91-da9ede85.mp3', 'google-e4dc334e-cc0120d3-e9f9bd56-edb2eb0b-52456091.mp3', 'paste-4b111b59ca2c0cc91a925e5eef3ea88c1383ca98.jpg', 'baseballbatguideheader-21-1000x550.jpg', 'google-1357db3d-e8514c8d-093d5c97-5340e9cf-20a349bf.mp3', 'google-7f08e087-12868bd2-3347783f-5a879b42-6447417b.mp3', 'google-b1586050-0731438a-c30999d1-86561bb5-edac830f.mp3', '800px-Heart_corazón.svg.png', 'google-792f5efb-e54f519c-28f256fd-ef92b9f9-99d28745.mp3', 'google-aff78621-bb6afe32-68cebb08-ea48e2b0-8c60cdfc.mp3', 'paste-03fc4ab48335209c71c96fc9ab103b3f412b3954.jpg', 'paste-197a18254cd11b5181ecf16b8734d480e5ceea91.jpg', 'paste-8cdc19f625e23111aee0499d3d9761d13e5bd75c.jpg', 'paste-d3b86f9869c258f3c87b808fb6c23183dc29e25f.jpg', 'paste-daff6e46452c94457869bd3071d78cc8c7ebfe70.jpg', 'AI-stealing-my-job-blog.jpg', 'NEEDLE _0.png', 'Taken-Back-or-Taken-Aback-Which-One-to-Use-1024x478.png', 'Untitled-design-2021-04-23T143237.068.png', 'google-1637403e-f7f365f4-152018d4-ac0b24b7-97e9e80d.mp3', 'google-1fc68e01-647c19b7-8e2c7299-872f0d30-e4105542.mp3', 'google-44c134c1-ca844445-0904e548-dbc1d4c3-f868ea20.mp3']
+[1708728828] sync.py:_downloadFiles(): received 25 files
+[1708728828] sync.py:_downloadFiles(): fetch ['google-52b80a70-75ffcbda-7ef64718-4582d34b-65eeaaf9.mp3', 'google-6ad6af71-133e69c9-14f18c4a-5bef5fb6-469f8abf.mp3', 'google-6da5b862-22186006-fa983550-5a0bf03e-724f94ce.mp3', 'google-6e5b4869-165ca7f6-5c420f4d-86307028-fd96b40c.mp3', 'google-95d57a80-d7ff6b8f-e8c3cf00-6bbbf1f1-98fceedf.mp3', 'google-a1946630-4e128b51-06fa2e71-2ffd9768-176c2c93.mp3', 'google-da739b0f-207de4ac-1ac0343e-fa390291-c32f1872.mp3', 'google-e481f2f1-a9898264-e0e62816-bf8baccb-a667880a.mp3', 'google-f644262b-9ae78b94-1244eedc-9de9e596-fea3f5af.mp3', 'google-fb666a8c-8008a6bf-bbd17cc3-89887374-adb1c374.mp3', 'insulin-syringe-syringes-1296x728-header.jpg', 'nursing_tools-_new_grads.jpg', 'paste-f5f506400f1e71e046aaefe932ffd6ed5e918282.jpg', 'photo-1629909613654-28e377c37b09.jpg', '27mag-deprivation-superJumbo.jpg', 'google-09a8ddf0-0d1fff80-573d26c4-74936f49-00e42fee.mp3', 'google-10ad2cc5-db05f916-374f56da-335bd41d-8b75c740.mp3', 'google-32b66364-8b0102aa-a846ce28-ff0d71fb-69c82f3d.mp3', 'google-4b327433-a4c1508c-f1d6da75-e5223096-f193c1c2.mp3', 'google-8c258a04-e4bbdf39-a6e7896d-fdb4f0ab-4b2b596d.mp3', 'google-c11b9a4e-12d98f9f-2cfaf93f-825b5105-6421f726.mp3', 'google-d27c735b-e175647a-82afa749-1ab4b95c-82d686d5.mp3', 'shocked-handsome-guy-expressing-surprise-grabbing-his-head-isolated-over-grey-wall-222631318.jpg', 'shutterstock_107212331.jpg', 'shutterstock_500593225_354026.jpg']
+[1708728829] sync.py:_downloadFiles(): received 15 files
+[1708728829] sync.py:_downloadFiles(): fetch ['google-09a8ddf0-0d1fff80-573d26c4-74936f49-00e42fee.mp3', 'google-10ad2cc5-db05f916-374f56da-335bd41d-8b75c740.mp3', 'google-32b66364-8b0102aa-a846ce28-ff0d71fb-69c82f3d.mp3', 'google-4b327433-a4c1508c-f1d6da75-e5223096-f193c1c2.mp3', 'google-8c258a04-e4bbdf39-a6e7896d-fdb4f0ab-4b2b596d.mp3', 'google-c11b9a4e-12d98f9f-2cfaf93f-825b5105-6421f726.mp3', 'google-d27c735b-e175647a-82afa749-1ab4b95c-82d686d5.mp3', 'shocked-handsome-guy-expressing-surprise-grabbing-his-head-isolated-over-grey-wall-222631318.jpg', 'shutterstock_107212331.jpg', 'shutterstock_500593225_354026.jpg', 'stick-together_186444-50.jpg', 'web-exert-authority-697667340.jpg', 'paste-123ba30f56ae906e64131b2cc769267eeb416d29.jpg', 'paste-35238d832492bf82ab3548d3ccb227eb3d42d303.jpg', 'paste-880a86407fe5a4a7118e5f31b154d50f5271ee96.jpg', 'paste-c8310bc7a4b52c390b73b1fbebf80380cd28f0e7.jpg', 'paste-cfb0e0d042bf246975733d7e30167970fa32de1f.jpg', 'paste-e887ffa6c399a100026255fd8998d159e51833b7.jpg', 'paste-d42f822f8ba36ec28a21b2397e6cb384f18ccb34.jpg']
+[1708728830] sync.py:_downloadFiles(): received 19 files
+[1708728830] sync.py:sync(): update last usn to 522
+[1708728830] sync.py:sync(): mediaChanges resp count 0
+[1708728831] collection.py:__init__(): /home/gvn/.local/share/Anki2/User 1/collection.anki2, 2.1.15
+[1708728831] schedv2.py:_updateCutoff(): 1437, 1708758000
+[1708728831] schedv2.py:unburyCards(): []
+[1708728842] schedv2.py:getCard(): {'data': '{}', 'did': 1643732357567, 'due': 1435, 'factor': 2500, 'flags': 0, 'id': 1694907477105, 'ivl': 55, 'lapses': 0, 'left': 1001, 'mod': 1703788873, 'nid': 1694907477105, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 550}
+[1708728890] collection.py:__init__(): /home/gvn/.local/share/Anki2/User 1/collection.anki2, 2.1.15
+[1708728890] schedv2.py:_updateCutoff(): 1437, 1708758000
+[1708728891] sync.py:sync(): rmeta, {'cont': True,
+ 'empty': False,
+ 'hostNum': 9,
+ 'media_usn': 522,
+ 'mod': 1708728789404,
+ 'msg': '',
+ 'scm': 1691507825319,
+ 'ts': 1708728891,
+ 'usn': 557}
+[1708728891] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1708728890271,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1691507825319,
+ 'ts': 1708728891,
+ 'usn': 557}
+[1708728892] sync.py:sync(): server chunk, {'done': True}
+[1708728892] sync.py:sync(): client chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1708728893] sync.py:sync(): findChanges
+[1708729385] collection.py:__init__(): /home/gvn/.local/share/Anki2/User 1/collection.anki2, 2.1.15
+[1708729385] schedv2.py:_updateCutoff(): 1437, 1708758000
+[1708729386] sync.py:sync(): rmeta, {'cont': True,
+ 'empty': False,
+ 'hostNum': 9,
+ 'media_usn': 522,
+ 'mod': 1708728893042,
+ 'msg': '',
+ 'scm': 1691507825319,
+ 'ts': 1708729385,
+ 'usn': 558}
+[1708729386] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1708728893042,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1691507825319,
+ 'ts': 1708729386,
+ 'usn': 558}
+[1708729386] sync.py:sync(): no changes
+[1708729386] sync.py:sync(): findChanges
+[1708729386] collection.py:__init__(): /home/gvn/.local/share/Anki2/User 1/collection.anki2, 2.1.15
+[1708729386] schedv2.py:_updateCutoff(): 1437, 1708758000
+[1708729392] schedv2.py:getCard(): {'data': '{}', 'did': 1643732357567, 'due': 1435, 'factor': 2500, 'flags': 0, 'id': 1694907477105, 'ivl': 55, 'lapses': 0, 'left': 1001, 'mod': 1703788873, 'nid': 1694907477105, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 550}
+[1708729396] collection.py:__init__(): /home/gvn/.local/share/Anki2/User 1/collection.anki2, 2.1.15
+[1708729396] schedv2.py:_updateCutoff(): 1437, 1708758000
+[1708729397] sync.py:sync(): rmeta, {'cont': True,
+ 'empty': False,
+ 'hostNum': 9,
+ 'media_usn': 522,
+ 'mod': 1708728893042,
+ 'msg': '',
+ 'scm': 1691507825319,
+ 'ts': 1708729397,
+ 'usn': 558}
+[1708729397] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1708729395895,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1691507825319,
+ 'ts': 1708729397,
+ 'usn': 558}
+[1708729398] sync.py:sync(): server chunk, {'done': True}
+[1708729398] sync.py:sync(): client chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1708729398] sync.py:sync(): findChanges
+[1708734956] collection.py:__init__(): /home/gvn/.local/share/Anki2/User 1/collection.anki2, 2.1.15
+[1708734956] schedv2.py:_updateCutoff(): 1437, 1708758000
+[1708734957] sync.py:sync(): rmeta, {'cont': True,
+ 'empty': False,
+ 'hostNum': 9,
+ 'media_usn': 522,
+ 'mod': 1708729398656,
+ 'msg': '',
+ 'scm': 1691507825319,
+ 'ts': 1708734957,
+ 'usn': 559}
+[1708734957] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1708729398656,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1691507825319,
+ 'ts': 1708734957,
+ 'usn': 559}
+[1708734957] sync.py:sync(): no changes
+[1708734957] sync.py:sync(): findChanges
+[1708734957] collection.py:__init__(): /home/gvn/.local/share/Anki2/User 1/collection.anki2, 2.1.15
+[1708734957] schedv2.py:_updateCutoff(): 1437, 1708758000
+[1708734959] schedv2.py:getCard(): {'data': '{}', 'did': 1643732357567, 'due': 1435, 'factor': 2500, 'flags': 0, 'id': 1694907477105, 'ivl': 55, 'lapses': 0, 'left': 1001, 'mod': 1703788873, 'nid': 1694907477105, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 550}
+[1708735070] collection.py:__init__(): /home/gvn/.local/share/Anki2/User 1/collection.anki2, 2.1.15
+[1708735070] schedv2.py:_updateCutoff(): 1437, 1708758000
+[1708735071] sync.py:sync(): rmeta, {'cont': True,
+ 'empty': False,
+ 'hostNum': 9,
+ 'media_usn': 522,
+ 'mod': 1708729398656,
+ 'msg': '',
+ 'scm': 1691507825319,
+ 'ts': 1708735071,
+ 'usn': 559}
+[1708735071] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1708735069749,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1691507825319,
+ 'ts': 1708735071,
+ 'usn': 559}
+[1708735071] sync.py:sync(): server chunk, {'done': True}
+[1708735071] sync.py:sync(): client chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1708735072] sync.py:sync(): findChanges
+[1708735074] collection.py:__init__(): /home/gvn/.local/share/Anki2/User 1/collection.anki2, 2.1.15
+[1708735074] schedv2.py:_updateCutoff(): 1437, 1708758000
+[1708735075] sync.py:sync(): rmeta, {'cont': True,
+ 'empty': False,
+ 'hostNum': 9,
+ 'media_usn': 522,
+ 'mod': 1708735072420,
+ 'msg': '',
+ 'scm': 1691507825319,
+ 'ts': 1708735075,
+ 'usn': 560}
+[1708735075] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1708735072420,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1691507825319,
+ 'ts': 1708735075,
+ 'usn': 560}
+[1708735075] sync.py:sync(): no changes
+[1708735075] sync.py:sync(): findChanges
+[1708735075] collection.py:__init__(): /home/gvn/.local/share/Anki2/User 1/collection.anki2, 2.1.15
+[1708735075] schedv2.py:_updateCutoff(): 1437, 1708758000
+[1708735077] schedv2.py:getCard(): {'data': '{}', 'did': 1643732357567, 'due': 1435, 'factor': 2500, 'flags': 0, 'id': 1694907477105, 'ivl': 55, 'lapses': 0, 'left': 1001, 'mod': 1703788873, 'nid': 1694907477105, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 550}
+[1708735182] collection.py:__init__(): /home/gvn/.local/share/Anki2/User 1/collection.anki2, 2.1.15
+[1708735182] schedv2.py:_updateCutoff(): 1437, 1708758000
+[1708735183] sync.py:sync(): rmeta, {'cont': True,
+ 'empty': False,
+ 'hostNum': 9,
+ 'media_usn': 522,
+ 'mod': 1708735072420,
+ 'msg': '',
+ 'scm': 1691507825319,
+ 'ts': 1708735183,
+ 'usn': 560}
+[1708735183] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1708735182338,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1691507825319,
+ 'ts': 1708735183,
+ 'usn': 560}
+[1708735184] sync.py:sync(): server chunk, {'done': True}
+[1708735184] sync.py:sync(): client chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1708735185] sync.py:sync(): findChanges
+[1708736601] collection.py:__init__(): /home/gvn/.local/share/Anki2/User 1/collection.anki2, 2.1.15
+[1708736601] schedv2.py:_updateCutoff(): 1437, 1708758000
+[1708736602] sync.py:sync(): rmeta, {'cont': True,
+ 'empty': False,
+ 'hostNum': 9,
+ 'media_usn': 522,
+ 'mod': 1708735185097,
+ 'msg': '',
+ 'scm': 1691507825319,
+ 'ts': 1708736602,
+ 'usn': 561}
+[1708736602] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1708735185097,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1691507825319,
+ 'ts': 1708736602,
+ 'usn': 561}
+[1708736602] sync.py:sync(): no changes
+[1708736602] sync.py:sync(): findChanges
+[1708736602] collection.py:__init__(): /home/gvn/.local/share/Anki2/User 1/collection.anki2, 2.1.15
+[1708736602] schedv2.py:_updateCutoff(): 1437, 1708758000
+[1708736712] schedv2.py:getCard(): {'data': '{}', 'did': 1643732357567, 'due': 1435, 'factor': 2500, 'flags': 0, 'id': 1694907477105, 'ivl': 55, 'lapses': 0, 'left': 1001, 'mod': 1703788873, 'nid': 1694907477105, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 550}
+[1708736905] collection.py:__init__(): /home/gvn/.local/share/Anki2/User 1/collection.anki2, 2.1.15
+[1708736905] schedv2.py:_updateCutoff(): 1437, 1708758000
+[1708736906] sync.py:sync(): rmeta, {'cont': True,
+ 'empty': False,
+ 'hostNum': 9,
+ 'media_usn': 522,
+ 'mod': 1708735185097,
+ 'msg': '',
+ 'scm': 1691507825319,
+ 'ts': 1708736906,
+ 'usn': 561}
+[1708736906] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1708736905230,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1691507825319,
+ 'ts': 1708736906,
+ 'usn': 561}
+[1708736907] sync.py:sync(): server chunk, {'done': True}
+[1708736907] sync.py:sync(): client chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1708736908] sync.py:sync(): findChanges
+[1708737046] collection.py:__init__(): /home/gvn/.local/share/Anki2/User 1/collection.anki2, 2.1.15
+[1708737046] schedv2.py:_updateCutoff(): 1437, 1708758000
+[1708737047] sync.py:sync(): rmeta, {'cont': True,
+ 'empty': False,
+ 'hostNum': 9,
+ 'media_usn': 522,
+ 'mod': 1708736907914,
+ 'msg': '',
+ 'scm': 1691507825319,
+ 'ts': 1708737047,
+ 'usn': 562}
+[1708737047] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1708736907914,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1691507825319,
+ 'ts': 1708737047,
+ 'usn': 562}
+[1708737047] sync.py:sync(): no changes
+[1708737047] sync.py:sync(): findChanges
+[1708737047] collection.py:__init__(): /home/gvn/.local/share/Anki2/User 1/collection.anki2, 2.1.15
+[1708737047] schedv2.py:_updateCutoff(): 1437, 1708758000
+[1708737073] collection.py:__init__(): /home/gvn/.local/share/Anki2/User 1/collection.anki2, 2.1.15
+[1708737073] schedv2.py:_updateCutoff(): 1437, 1708758000
+[1708737074] sync.py:sync(): rmeta, {'cont': True,
+ 'empty': False,
+ 'hostNum': 9,
+ 'media_usn': 522,
+ 'mod': 1708736907914,
+ 'msg': '',
+ 'scm': 1691507825319,
+ 'ts': 1708737073,
+ 'usn': 562}
+[1708737074] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1708736907914,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1691507825319,
+ 'ts': 1708737074,
+ 'usn': 562}
+[1708737074] sync.py:sync(): no changes
+[1708737074] sync.py:sync(): findChanges
