@@ -53,4 +53,11 @@ require("lazy").setup({
 			require("plugins.nvim-cmp") -- Load cmp configuration
 		end,
 	},
+	{
+		"editorconfig/editorconfig-vim",
+		config = function()
+			-- You can add configuration options here if needed
+			-- editorconfig.nvim will work out of the box
+		end,
+	},
 })

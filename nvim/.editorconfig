@@ -1,0 +1,28 @@
+# .editorconfig file at project root
+
+root = true
+
+# For Lua files
+[*.lua]
+indent_style = space
+indent_size = 2
+
+# For HTML and CSS files
+[*.{html, htm, css}]
+indent_style = space
+indent_style = 2
+
+# For Python files
+[*.py]
+indent_style = space
+indent_size = 4
+
+# For JavaScript files
+[*.js]
+indent_style = space
+indent_size = 4
+
+# For C/C++ files
+[*.{c,cpp}]
+indent_style = tab
+indent_size = 8

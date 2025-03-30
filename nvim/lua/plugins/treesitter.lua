@@ -41,7 +41,10 @@ return {
       --  the list of additional_vim_regex_highlighting and disabled languages for indent.
       additional_vim_regex_highlighting = { "ruby" },
     },
-    indent = { enable = true, disable = { "ruby" } },
+    indent = {
+      enable = false,
+      --disable = { "ruby", "html",  }
+    },
 
     -- Add textobjects module
     textobjects = {
@@ -62,17 +65,17 @@ return {
       },
       move = {
         enable = true,
-        set_jumps = true,        -- Whether to set jumps in the jumplist
+        set_jumps = true,             -- Whether to set jumps in the jumplist
         goto_next_start = {
           ["]m"] = "@function.outer", -- Jump to the start of the next function
-          [']"'] = "@string.outer", -- Jump to the start of the next string
+          [']"'] = "@string.outer",   -- Jump to the start of the next string
         },
         goto_next_end = {
           ["]M"] = "@function.outer", -- Jump to the end of the next function
         },
         goto_previous_start = {
           ["[m"] = "@function.outer", -- Jump to the start of the previous function
-          ['["'] = "@string.outer", -- Jump to the start of the previous string
+          ['["'] = "@string.outer",   -- Jump to the start of the previous string
         },
         goto_previous_end = {
           ["[M"] = "@function.outer", -- Jump to the end of the previous function

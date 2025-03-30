@@ -274,10 +274,10 @@ return {
         filetypes = { "javascript", "javascriptreact", "typescript", "typescriptreact" },
         settings = {
           javascript = {
-            format = { enable = true },
+            format = { enable = false },
           },
           typescript = {
-            format = { enable = true },
+            format = { enable = false },
           },
         },
       },
@@ -288,7 +288,7 @@ return {
         filetypes = { "html", "htm" },
         settings = {
           html = {
-            format = { enable = true },
+            format = { enable = false },
           },
         },
       },
@@ -297,7 +297,7 @@ return {
         filetypes = { "css", "scss", "less" },
         settings = {
           css = {
-            format = { enable = true },
+            format = { enable = false },
           },
         },
       },

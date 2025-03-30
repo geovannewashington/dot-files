@@ -1,0 +1,7 @@
+-- Set the number of spaces per indentation level
+indent_width = 2
+-- Use spaces instead of tabs for indentation
+indent_type = "Spaces"
+-- Format the file with default configuration for Lua
+line_endings = "Unix"
+column_width = 120

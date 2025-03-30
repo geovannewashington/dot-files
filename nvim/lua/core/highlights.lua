@@ -1,4 +1,5 @@
-
 -- core/highlights.lua
-vim.cmd('highlight CursorLineNr guifg=#ffcc00 gui=bold')
-vim.opt.cursorline = false
+--vim.cmd("highlight CursorLineNr guifg=#ffcc00")
+-- vim.cmd("highlight LineNr guifg=#a89984")
+-- vim.opt.cursorline = true
+-- vim.o.cursorline = false
