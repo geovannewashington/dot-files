@@ -15,7 +15,7 @@ firefox "https://dashboard.twitch.tv/u/tposeprogrammer/stream-manager" "https://
 alacritty -e zsh -c "tmux new-session -s work 'cd ~/Desktop/playground && nvim; zsh' \; new-window 'cd ~/ && zsh' \; select-window -t 0 && zsh" &
 
 # Start screenkey for keystroke visualization
-screenkey &
+# screenkey &
 
 # Start OBS without sandbox
 obs --no-sandbox &
