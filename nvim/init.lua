@@ -32,6 +32,7 @@ require("lazy").setup({
   require("plugins.misc"),
   require("plugins.autocompletion"),
   require("plugins.emmet-vim"),
+  require("plugins.presence"),
   -- require("plugins.ultisnips"),
   {
     -- LuaSnip Plugin
