@@ -116,3 +116,5 @@ xmodmap ~/.Xmodmap
 
 export LS_COLORS="di=38;5;142:ln=38;5;33:so=38;5;80:pi=38;5;214:ex=38;5;166:bd=38;5;174:cd=38;5;175:or=38;5;178"
 export EDITOR=nvim
+
+eval "$(zoxide init zsh)"
