@@ -1,9 +1,3 @@
-#firefox "https://dashboard.twitch.tv/u/tposeprogrammer/stream-manager" "https://pomofocus.io/" &
-#gnome-terminal -- zsh -i -c "pg; exit" &
-#gnome-terminal -- zsh -c "source ~/.zshrc && btop; exec zsh" &
-#screenkey &
-#obs --no-sandbox &
-
 #!/bin/bash
 xmodmap ~/.Xmodmap
 
@@ -19,3 +13,6 @@ alacritty -e zsh -c "tmux new-session -s work 'cd ~/Desktop/playground && nvim; 
 
 # Start OBS without sandbox
 obs --no-sandbox &
+
+#start twitch chat
+flatpak run com.chatterino.chatterino &

@@ -118,3 +118,6 @@ export LS_COLORS="di=38;5;142:ln=38;5;33:so=38;5;80:pi=38;5;214:ex=38;5;166:bd=3
 export EDITOR=nvim
 
 eval "$(zoxide init zsh)"
+alias watch_stream='/home/gvn/my-bash-scripts/watch_stream.sh'
+alias yt-chat='/home/gvn/my-bash-scripts/yt-chat.sh'
+alias tw-chat='flatpak run com.chatterino.chatterino'
