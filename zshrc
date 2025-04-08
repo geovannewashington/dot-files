@@ -1,5 +1,5 @@
 # If you come from bash you might have to change your $PATH.
-# export PATH=$HOME/bin:/usr/local/bin:$PATH
+export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
   export ZSH=~/.oh-my-zsh
@@ -121,3 +121,5 @@ eval "$(zoxide init zsh)"
 alias watch_stream='/home/gvn/my-bash-scripts/watch_stream.sh'
 alias yt-chat='/home/gvn/my-bash-scripts/yt-chat.sh'
 alias tw-chat='flatpak run com.chatterino.chatterino'
+
+export LUA_INIT="@${HOME}/.lua_profile.lua"
