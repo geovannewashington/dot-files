@@ -8,7 +8,7 @@ bold = { family = "Caskaydia Cove Nerd Font", style = "Bold" }
 italic = { family = "Caskaydia Cove Nerd Font", style = "Italic" }
 
 [window]
-opacity = 0.80 
+opacity = 0.83 
 decorations = "none"
 
 [terminal.shell]
